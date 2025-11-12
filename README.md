@@ -28,3 +28,10 @@
 | JSON   | [working_proxies.json](https://raw.githubusercontent.com/abusaeeidx/TazaProxy-Troxy/refs/heads/main/working_proxies.json) |
 
 ---
+
+
+## ❤️ Support This Project
+
+[✨ Click here to support by clicking ✨](https://abusaeeidx.github.io/Support/)
+
+---
