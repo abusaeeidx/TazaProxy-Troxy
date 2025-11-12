@@ -1,0 +1,27 @@
+[
+  {
+    "proxy": "HTTPS://8.211.200.183:5060",
+    "latency": 2354.54,
+    "type": "HTTPS"
+  },
+  {
+    "proxy": "HTTPS://47.104.28.135:8080",
+    "latency": 2406.35,
+    "type": "HTTPS"
+  },
+  {
+    "proxy": "HTTPS://8.211.51.115:1036",
+    "latency": 2407.36,
+    "type": "HTTPS"
+  },
+  {
+    "proxy": "HTTPS://8.211.51.115:28",
+    "latency": 2581.29,
+    "type": "HTTPS"
+  },
+  {
+    "proxy": "HTTPS://8.130.54.67:9098",
+    "latency": 2513.92,
+    "type": "HTTPS"
+  }
+]
