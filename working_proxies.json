@@ -1,27 +1,27 @@
 [
   {
-    "proxy": "HTTPS://18.183.141.82:8889",
-    "latency": 753.18,
-    "type": "HTTPS"
+    "proxy": "https://103.247.82.6:8081",
+    "latency": 1662.44,
+    "type": "https"
   },
   {
-    "proxy": "HTTPS://187.0.163.71:80",
-    "latency": 1240.46,
-    "type": "HTTPS"
+    "proxy": "https://8.213.215.187:3129",
+    "latency": 3864.56,
+    "type": "https"
   },
   {
-    "proxy": "HTTPS://139.196.175.68:3129",
-    "latency": 2515.53,
-    "type": "HTTPS"
+    "proxy": "https://47.91.120.190:8888",
+    "latency": 3671.8,
+    "type": "https"
   },
   {
-    "proxy": "HTTPS://8.220.141.8:8080",
-    "latency": 5100.74,
-    "type": "HTTPS"
+    "proxy": "https://8.138.125.130:8443",
+    "latency": 2481.88,
+    "type": "https"
   },
   {
-    "proxy": "HTTPS://47.90.149.238:8889",
-    "latency": 3686.05,
-    "type": "HTTPS"
+    "proxy": "https://149.129.255.179:18080",
+    "latency": 5856.71,
+    "type": "https"
   }
 ]
