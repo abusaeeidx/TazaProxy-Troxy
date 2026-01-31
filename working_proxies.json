@@ -1,2502 +1,2502 @@
 [
   {
-    "proxy": "https://141.0.9.176:80",
-    "latency": 527.16,
+    "proxy": "https://36.138.53.26:10017",
+    "latency": 1398.25,
+    "type": "https"
+  },
+  {
+    "proxy": "https://103.115.239.9:1111",
+    "latency": 8123.62,
+    "type": "https"
+  },
+  {
+    "proxy": "https://45.115.113.90:7675",
+    "latency": 9590.26,
+    "type": "https"
+  },
+  {
+    "proxy": "https://148.251.86.68:16379",
+    "latency": 10067.05,
+    "type": "https"
+  },
+  {
+    "proxy": "https://91.238.104.155:2023",
+    "latency": 355.53,
+    "type": "https"
+  },
+  {
+    "proxy": "https://145.220.178.7:3128",
+    "latency": 1586.81,
+    "type": "https"
+  },
+  {
+    "proxy": "https://149.129.226.9:20",
+    "latency": 2487.95,
+    "type": "https"
+  },
+  {
+    "proxy": "https://190.97.241.7:999",
+    "latency": 2849.56,
+    "type": "https"
+  },
+  {
+    "proxy": "https://38.194.246.34:999",
+    "latency": 3906.91,
+    "type": "https"
+  },
+  {
+    "proxy": "https://114.111.151.41:80",
+    "latency": 5022.73,
+    "type": "https"
+  },
+  {
+    "proxy": "https://201.182.150.184:999",
+    "latency": 6625.87,
+    "type": "https"
+  },
+  {
+    "proxy": "https://103.18.78.250:1111",
+    "latency": 8571.22,
+    "type": "https"
+  },
+  {
+    "proxy": "https://58.216.109.14:800",
+    "latency": 1624.05,
+    "type": "https"
+  },
+  {
+    "proxy": "https://145.220.178.2:9050",
+    "latency": 1992.53,
+    "type": "https"
+  },
+  {
+    "proxy": "https://113.45.250.180:443",
+    "latency": 770.35,
+    "type": "https"
+  },
+  {
+    "proxy": "https://182.155.254.159:80",
+    "latency": 899.99,
     "type": "https"
   },
   {
     "proxy": "https://167.71.232.168:3000",
-    "latency": 453.55,
+    "latency": 440.76,
     "type": "https"
   },
   {
-    "proxy": "https://43.225.151.30:20505",
-    "latency": 1193.54,
+    "proxy": "https://182.155.200.61:80",
+    "latency": 1027.51,
     "type": "https"
   },
   {
-    "proxy": "https://154.16.146.46:80",
-    "latency": 2097.13,
-    "type": "https"
-  },
-  {
-    "proxy": "https://47.250.51.110:8080",
-    "latency": 2463.85,
-    "type": "https"
-  },
-  {
-    "proxy": "https://47.237.113.119:6379",
-    "latency": 2470.79,
-    "type": "https"
-  },
-  {
-    "proxy": "https://83.168.74.163:8080",
-    "latency": 2579.97,
-    "type": "https"
-  },
-  {
-    "proxy": "https://103.245.109.57:39355",
-    "latency": 3034.4,
-    "type": "https"
-  },
-  {
-    "proxy": "https://212.114.194.76:80",
-    "latency": 3785.89,
-    "type": "https"
-  },
-  {
-    "proxy": "https://118.193.37.241:3129",
-    "latency": 3852.17,
-    "type": "https"
-  },
-  {
-    "proxy": "https://175.138.231.145:80",
-    "latency": 1133.11,
-    "type": "https"
-  },
-  {
-    "proxy": "https://47.90.149.238:6379",
-    "latency": 2014.41,
-    "type": "https"
-  },
-  {
-    "proxy": "https://111.79.111.126:3128",
-    "latency": 8316.81,
-    "type": "https"
-  },
-  {
-    "proxy": "https://69.48.201.94:80",
-    "latency": 6265.46,
-    "type": "https"
-  },
-  {
-    "proxy": "https://8.220.204.92:8080",
-    "latency": 2370.72,
-    "type": "https"
-  },
-  {
-    "proxy": "https://102.219.170.116:8080",
-    "latency": 2142.23,
-    "type": "https"
-  },
-  {
-    "proxy": "https://115.147.165.113:8082",
-    "latency": 1820.28,
-    "type": "https"
-  },
-  {
-    "proxy": "https://202.58.77.9:8080",
-    "latency": 4330.82,
-    "type": "https"
-  },
-  {
-    "proxy": "https://8.243.163.126:3128",
-    "latency": 5135.04,
-    "type": "https"
-  },
-  {
-    "proxy": "https://41.72.213.182:8090",
-    "latency": 5446.96,
-    "type": "https"
-  },
-  {
-    "proxy": "https://190.109.121.1:999",
-    "latency": 2936.25,
-    "type": "https"
-  },
-  {
-    "proxy": "https://120.92.211.211:7890",
-    "latency": 2106.93,
-    "type": "https"
-  },
-  {
-    "proxy": "https://8.211.49.86:8443",
-    "latency": 2191.53,
-    "type": "https"
-  },
-  {
-    "proxy": "https://103.168.207.42:8080",
-    "latency": 6096.26,
-    "type": "https"
-  },
-  {
-    "proxy": "https://191.37.66.225:8080",
-    "latency": 3345.35,
-    "type": "https"
-  },
-  {
-    "proxy": "https://47.238.128.246:8081",
-    "latency": 2411.83,
-    "type": "https"
-  },
-  {
-    "proxy": "https://8.213.134.213:20",
-    "latency": 2370.16,
-    "type": "https"
-  },
-  {
-    "proxy": "https://163.223.78.107:8080",
-    "latency": 6165.07,
-    "type": "https"
-  },
-  {
-    "proxy": "https://202.181.148.64:54101",
-    "latency": 7069.38,
-    "type": "https"
-  },
-  {
-    "proxy": "https://157.254.37.238:999",
-    "latency": 11506.76,
-    "type": "https"
-  },
-  {
-    "proxy": "https://20.78.26.206:8561",
-    "latency": 6376.93,
-    "type": "https"
-  },
-  {
-    "proxy": "https://180.191.16.105:8082",
-    "latency": 4761.49,
-    "type": "https"
-  },
-  {
-    "proxy": "https://170.80.203.20:999",
-    "latency": 3474.03,
-    "type": "https"
-  },
-  {
-    "proxy": "https://52.229.30.3:80",
-    "latency": 276.37,
-    "type": "https"
-  },
-  {
-    "proxy": "https://172.236.163.78:3128",
-    "latency": 901.23,
-    "type": "https"
-  },
-  {
-    "proxy": "https://153.0.171.163:8085",
-    "latency": 1098.86,
-    "type": "https"
-  },
-  {
-    "proxy": "https://200.24.130.144:999",
-    "latency": 8254.98,
-    "type": "https"
-  },
-  {
-    "proxy": "https://199.66.157.41:8080",
-    "latency": 3742.78,
-    "type": "https"
-  },
-  {
-    "proxy": "https://101.47.16.15:7890",
-    "latency": 940.22,
-    "type": "https"
-  },
-  {
-    "proxy": "https://217.113.25.196:8080",
-    "latency": 605.87,
-    "type": "https"
-  },
-  {
-    "proxy": "https://46.250.251.246:443",
-    "latency": 11914.89,
-    "type": "https"
-  },
-  {
-    "proxy": "https://62.133.62.12:1081",
-    "latency": 7090.03,
-    "type": "https"
-  },
-  {
-    "proxy": "https://41.191.203.161:80",
-    "latency": 4022.65,
-    "type": "https"
-  },
-  {
-    "proxy": "https://202.191.127.9:1121",
-    "latency": 8303.51,
-    "type": "https"
-  },
-  {
-    "proxy": "https://8.221.138.111:13",
-    "latency": 2306.01,
-    "type": "https"
-  },
-  {
-    "proxy": "https://59.153.16.167:20909",
-    "latency": 5840.87,
-    "type": "https"
-  },
-  {
-    "proxy": "https://38.52.135.96:8181",
-    "latency": 3649.97,
-    "type": "https"
-  },
-  {
-    "proxy": "https://160.20.128.13:1080",
-    "latency": 8359.0,
-    "type": "https"
-  },
-  {
-    "proxy": "https://212.127.95.235:8081",
-    "latency": 436.93,
-    "type": "https"
-  },
-  {
-    "proxy": "https://182.253.181.10:8080",
-    "latency": 12468.55,
-    "type": "https"
-  },
-  {
-    "proxy": "https://47.254.36.213:8080",
-    "latency": 2134.01,
-    "type": "https"
-  },
-  {
-    "proxy": "https://8.220.204.215:443",
-    "latency": 2405.32,
-    "type": "https"
-  },
-  {
-    "proxy": "https://8.220.204.215:80",
-    "latency": 2386.06,
-    "type": "https"
-  },
-  {
-    "proxy": "https://8.211.200.183:1720",
-    "latency": 2174.01,
-    "type": "https"
-  },
-  {
-    "proxy": "https://115.144.38.21:15648",
-    "latency": 4125.05,
-    "type": "https"
-  },
-  {
-    "proxy": "https://212.108.115.68:8080",
-    "latency": 4529.73,
-    "type": "https"
-  },
-  {
-    "proxy": "https://134.209.153.66:3128",
-    "latency": 8212.16,
-    "type": "https"
-  },
-  {
-    "proxy": "https://67.43.236.18:30065",
-    "latency": 521.5,
-    "type": "https"
-  },
-  {
-    "proxy": "https://8.220.205.172:8008",
-    "latency": 2381.26,
-    "type": "https"
-  },
-  {
-    "proxy": "https://177.136.44.193:54443",
-    "latency": 1174.23,
-    "type": "https"
-  },
-  {
-    "proxy": "https://190.14.249.111:8080",
-    "latency": 4666.08,
-    "type": "https"
-  },
-  {
-    "proxy": "https://103.169.238.65:8090",
-    "latency": 2254.52,
-    "type": "https"
-  },
-  {
-    "proxy": "https://222.213.85.99:9002",
-    "latency": 12480.85,
-    "type": "https"
-  },
-  {
-    "proxy": "https://145.220.178.8:4145",
-    "latency": 1020.62,
-    "type": "https"
-  },
-  {
-    "proxy": "https://14.248.84.131:8080",
-    "latency": 4525.66,
-    "type": "https"
-  },
-  {
-    "proxy": "https://8.211.49.86:1088",
-    "latency": 2188.65,
-    "type": "https"
-  },
-  {
-    "proxy": "https://145.220.178.3:8080",
-    "latency": 1017.39,
-    "type": "https"
-  },
-  {
-    "proxy": "https://41.57.6.30:6060",
-    "latency": 8597.69,
-    "type": "https"
-  },
-  {
-    "proxy": "https://203.76.98.21:45958",
-    "latency": 8260.67,
-    "type": "https"
-  },
-  {
-    "proxy": "https://194.110.55.211:3130",
-    "latency": 10615.32,
-    "type": "https"
-  },
-  {
-    "proxy": "https://123.200.26.134:9090",
-    "latency": 14585.41,
-    "type": "https"
-  },
-  {
-    "proxy": "https://36.95.55.207:3128",
-    "latency": 7323.14,
-    "type": "https"
-  },
-  {
-    "proxy": "https://39.129.25.66:8060",
-    "latency": 4189.83,
-    "type": "https"
-  },
-  {
-    "proxy": "https://49.254.137.142:15648",
-    "latency": 8647.38,
-    "type": "https"
-  },
-  {
-    "proxy": "https://161.35.70.249:3128",
-    "latency": 1386.57,
-    "type": "https"
-  },
-  {
-    "proxy": "https://8.211.200.183:8080",
-    "latency": 2167.12,
-    "type": "https"
-  },
-  {
-    "proxy": "https://91.98.78.64:80",
-    "latency": 416.6,
-    "type": "https"
-  },
-  {
-    "proxy": "https://181.209.118.250:999",
-    "latency": 10181.06,
-    "type": "https"
-  },
-  {
-    "proxy": "https://8.211.194.78:8080",
-    "latency": 2172.03,
-    "type": "https"
-  },
-  {
-    "proxy": "https://8.213.156.191:808",
-    "latency": 2385.05,
-    "type": "https"
-  },
-  {
-    "proxy": "https://177.93.59.66:999",
-    "latency": 4279.13,
-    "type": "https"
-  },
-  {
-    "proxy": "https://47.74.46.81:3128",
-    "latency": 2321.01,
-    "type": "https"
-  },
-  {
-    "proxy": "https://202.5.57.37:11726",
-    "latency": 3361.14,
-    "type": "https"
-  },
-  {
-    "proxy": "https://103.154.230.104:8090",
-    "latency": 6057.9,
-    "type": "https"
-  },
-  {
-    "proxy": "https://8.220.204.215:90",
-    "latency": 2381.69,
-    "type": "https"
-  },
-  {
-    "proxy": "https://203.196.8.6:3128",
-    "latency": 5531.27,
-    "type": "https"
-  },
-  {
-    "proxy": "https://200.24.159.230:8080",
-    "latency": 5528.69,
-    "type": "https"
-  },
-  {
-    "proxy": "https://186.215.87.194:30007",
-    "latency": 4296.1,
-    "type": "https"
-  },
-  {
-    "proxy": "https://190.83.15.241:999",
-    "latency": 3048.34,
-    "type": "https"
-  },
-  {
-    "proxy": "https://188.239.43.6:80",
-    "latency": 920.37,
-    "type": "https"
-  },
-  {
-    "proxy": "https://183.87.160.62:83",
-    "latency": 14223.15,
-    "type": "https"
-  },
-  {
-    "proxy": "https://38.51.207.184:999",
-    "latency": 13514.01,
-    "type": "https"
-  },
-  {
-    "proxy": "https://203.95.198.167:8080",
-    "latency": 1046.24,
-    "type": "https"
-  },
-  {
-    "proxy": "https://37.27.6.46:80",
-    "latency": 438.33,
-    "type": "https"
-  },
-  {
-    "proxy": "https://39.104.59.56:8080",
-    "latency": 2532.1,
-    "type": "https"
-  },
-  {
-    "proxy": "https://186.96.180.17:999",
-    "latency": 7569.22,
-    "type": "https"
-  },
-  {
-    "proxy": "https://131.0.91.117:8080",
-    "latency": 5921.59,
-    "type": "https"
-  },
-  {
-    "proxy": "https://185.241.5.57:3128",
-    "latency": 795.88,
-    "type": "https"
-  },
-  {
-    "proxy": "https://31.28.4.192:80",
-    "latency": 7011.48,
-    "type": "https"
-  },
-  {
-    "proxy": "https://112.93.118.61:3128",
-    "latency": 1448.23,
-    "type": "https"
-  },
-  {
-    "proxy": "https://163.61.254.104:1111",
-    "latency": 21324.99,
-    "type": "https"
-  },
-  {
-    "proxy": "https://181.78.51.157:999",
-    "latency": 12945.51,
-    "type": "https"
-  },
-  {
-    "proxy": "https://131.255.227.104:3128",
-    "latency": 1439.99,
-    "type": "https"
-  },
-  {
-    "proxy": "https://180.191.23.95:8081",
-    "latency": 6768.37,
-    "type": "https"
-  },
-  {
-    "proxy": "https://45.174.79.65:999",
-    "latency": 8409.78,
-    "type": "https"
-  },
-  {
-    "proxy": "https://103.162.141.106:8080",
-    "latency": 9936.39,
-    "type": "https"
-  },
-  {
-    "proxy": "https://163.5.128.11:14270",
-    "latency": 8491.68,
-    "type": "https"
-  },
-  {
-    "proxy": "https://103.188.168.75:3125",
-    "latency": 4446.35,
-    "type": "https"
-  },
-  {
-    "proxy": "https://47.238.60.156:81",
-    "latency": 2400.9,
-    "type": "https"
-  },
-  {
-    "proxy": "https://8.211.51.115:84",
-    "latency": 2179.81,
-    "type": "https"
-  },
-  {
-    "proxy": "https://195.133.11.246:1080",
-    "latency": 6204.46,
-    "type": "https"
-  },
-  {
-    "proxy": "https://154.65.39.8:80",
-    "latency": 931.6,
-    "type": "https"
-  },
-  {
-    "proxy": "https://46.62.204.83:80",
-    "latency": 3177.72,
-    "type": "https"
-  },
-  {
-    "proxy": "https://185.88.177.40:80",
-    "latency": 738.35,
-    "type": "https"
-  },
-  {
-    "proxy": "https://200.24.130.145:999",
-    "latency": 7700.73,
-    "type": "https"
-  },
-  {
-    "proxy": "https://37.187.92.9:1040",
-    "latency": 694.18,
-    "type": "https"
-  },
-  {
-    "proxy": "https://139.162.46.62:3128",
-    "latency": 10137.47,
-    "type": "https"
-  },
-  {
-    "proxy": "https://8.215.3.250:5060",
-    "latency": 2492.99,
-    "type": "https"
-  },
-  {
-    "proxy": "https://149.129.255.179:8060",
-    "latency": 4539.81,
-    "type": "https"
-  },
-  {
-    "proxy": "https://157.15.41.198:8082",
-    "latency": 12616.36,
-    "type": "https"
-  },
-  {
-    "proxy": "https://145.220.178.9:1081",
-    "latency": 1496.24,
-    "type": "https"
-  },
-  {
-    "proxy": "https://47.91.29.151:3128",
-    "latency": 2349.43,
-    "type": "https"
-  },
-  {
-    "proxy": "https://212.114.194.78:80",
-    "latency": 619.25,
-    "type": "https"
-  },
-  {
-    "proxy": "https://187.190.114.57:999",
-    "latency": 8164.81,
-    "type": "https"
-  },
-  {
-    "proxy": "https://197.164.101.10:1981",
-    "latency": 5314.44,
-    "type": "https"
-  },
-  {
-    "proxy": "https://103.189.254.71:8080",
-    "latency": 12527.7,
-    "type": "https"
-  },
-  {
-    "proxy": "https://103.177.177.250:8080",
-    "latency": 11858.2,
-    "type": "https"
-  },
-  {
-    "proxy": "https://61.19.145.66:8080",
-    "latency": 11208.2,
-    "type": "https"
-  },
-  {
-    "proxy": "https://47.116.210.163:20002",
-    "latency": 2517.64,
-    "type": "https"
-  },
-  {
-    "proxy": "https://138.91.159.185:80",
-    "latency": 3920.44,
-    "type": "https"
-  },
-  {
-    "proxy": "https://103.106.34.49:4995",
-    "latency": 2569.85,
-    "type": "https"
-  },
-  {
-    "proxy": "https://40.177.211.224:59394",
-    "latency": 259.97,
-    "type": "https"
-  },
-  {
-    "proxy": "https://47.6.9.54:80",
-    "latency": 6986.97,
-    "type": "https"
-  },
-  {
-    "proxy": "https://8.213.128.6:5566",
-    "latency": 2366.44,
-    "type": "https"
-  },
-  {
-    "proxy": "https://113.204.79.230:9091",
-    "latency": 2574.82,
-    "type": "https"
-  },
-  {
-    "proxy": "https://188.165.199.207:80",
-    "latency": 369.42,
-    "type": "https"
-  },
-  {
-    "proxy": "https://34.83.88.197:80",
-    "latency": 139.03,
-    "type": "https"
-  },
-  {
-    "proxy": "https://8.220.205.172:1080",
-    "latency": 2381.66,
-    "type": "https"
-  },
-  {
-    "proxy": "https://103.125.31.222:80",
-    "latency": 516.42,
-    "type": "https"
-  },
-  {
-    "proxy": "https://138.201.128.41:3128",
-    "latency": 498.2,
-    "type": "https"
-  },
-  {
-    "proxy": "https://101.43.255.96:80",
-    "latency": 2118.32,
-    "type": "https"
-  },
-  {
-    "proxy": "https://31.24.16.151:80",
-    "latency": 4270.45,
-    "type": "https"
-  },
-  {
-    "proxy": "https://47.250.159.65:801",
-    "latency": 2463.04,
-    "type": "https"
-  },
-  {
-    "proxy": "https://13.222.210.210:80",
-    "latency": 25.6,
-    "type": "https"
-  },
-  {
-    "proxy": "https://177.200.239.141:999",
-    "latency": 2349.69,
-    "type": "https"
-  },
-  {
-    "proxy": "https://103.227.186.217:6080",
-    "latency": 9620.55,
-    "type": "https"
-  },
-  {
-    "proxy": "https://8.221.141.88:1027",
-    "latency": 2312.83,
-    "type": "https"
-  },
-  {
-    "proxy": "https://139.224.186.221:80",
-    "latency": 2470.49,
-    "type": "https"
-  },
-  {
-    "proxy": "https://89.238.200.81:80",
-    "latency": 3475.94,
-    "type": "https"
-  },
-  {
-    "proxy": "https://41.254.48.54:19333",
-    "latency": 5472.04,
-    "type": "https"
-  },
-  {
-    "proxy": "https://123.200.6.205:2314",
-    "latency": 14397.54,
-    "type": "https"
-  },
-  {
-    "proxy": "https://84.205.28.220:8080",
-    "latency": 8658.05,
-    "type": "https"
-  },
-  {
-    "proxy": "https://103.82.93.98:3128",
-    "latency": 10397.96,
-    "type": "https"
-  },
-  {
-    "proxy": "https://190.110.226.122:80",
-    "latency": 6964.97,
-    "type": "https"
-  },
-  {
-    "proxy": "https://187.94.16.59:39665",
-    "latency": 8631.38,
-    "type": "https"
-  },
-  {
-    "proxy": "https://177.234.211.31:999",
-    "latency": 10432.35,
-    "type": "https"
-  },
-  {
-    "proxy": "https://149.129.255.179:18080",
-    "latency": 2484.91,
-    "type": "https"
-  },
-  {
-    "proxy": "https://144.24.41.48:9999",
-    "latency": 3399.19,
-    "type": "https"
-  },
-  {
-    "proxy": "https://150.107.104.67:3125",
-    "latency": 14669.52,
-    "type": "https"
-  },
-  {
-    "proxy": "https://203.95.198.146:8080",
-    "latency": 1694.41,
-    "type": "https"
-  },
-  {
-    "proxy": "https://177.93.49.203:999",
-    "latency": 4985.4,
-    "type": "https"
-  },
-  {
-    "proxy": "https://8.212.151.166:8008",
-    "latency": 2504.56,
-    "type": "https"
-  },
-  {
-    "proxy": "https://197.164.101.12:1976",
-    "latency": 9547.81,
-    "type": "https"
-  },
-  {
-    "proxy": "https://47.91.89.3:8080",
-    "latency": 2196.9,
-    "type": "https"
-  },
-  {
-    "proxy": "https://103.253.43.144:80",
-    "latency": 2168.45,
-    "type": "https"
-  },
-  {
-    "proxy": "https://221.153.152.43:80",
-    "latency": 753.04,
-    "type": "https"
-  },
-  {
-    "proxy": "https://176.236.46.147:80",
-    "latency": 571.17,
-    "type": "https"
-  },
-  {
-    "proxy": "https://122.117.203.252:3128",
-    "latency": 11328.92,
-    "type": "https"
-  },
-  {
-    "proxy": "https://91.107.154.88:443",
-    "latency": 8392.21,
-    "type": "https"
-  },
-  {
-    "proxy": "https://8.213.195.191:8095",
-    "latency": 2498.54,
-    "type": "https"
-  },
-  {
-    "proxy": "https://8.215.15.163:8123",
-    "latency": 2485.52,
-    "type": "https"
-  },
-  {
-    "proxy": "https://103.165.157.247:8088",
-    "latency": 16428.85,
-    "type": "https"
-  },
-  {
-    "proxy": "https://210.79.146.107:8090",
-    "latency": 10284.85,
-    "type": "https"
-  },
-  {
-    "proxy": "https://172.236.162.80:3128",
-    "latency": 755.9,
-    "type": "https"
-  },
-  {
-    "proxy": "https://45.177.16.132:999",
-    "latency": 1176.58,
-    "type": "https"
-  },
-  {
-    "proxy": "https://8.213.195.191:3000",
-    "latency": 2516.08,
-    "type": "https"
-  },
-  {
-    "proxy": "https://179.109.80.115:23421",
-    "latency": 3635.9,
-    "type": "https"
-  },
-  {
-    "proxy": "https://216.250.11.178:3128",
-    "latency": 352.4,
-    "type": "https"
-  },
-  {
-    "proxy": "https://160.19.18.42:8080",
-    "latency": 4311.69,
-    "type": "https"
-  },
-  {
-    "proxy": "https://47.91.89.3:1081",
-    "latency": 2190.36,
-    "type": "https"
-  },
-  {
-    "proxy": "https://157.230.106.35:8080",
-    "latency": 2671.94,
-    "type": "https"
-  },
-  {
-    "proxy": "https://8.221.138.111:8081",
-    "latency": 2307.46,
-    "type": "https"
-  },
-  {
-    "proxy": "https://201.182.248.149:8080",
-    "latency": 11156.98,
-    "type": "https"
-  },
-  {
-    "proxy": "https://8.211.200.183:6379",
-    "latency": 2166.32,
-    "type": "https"
-  },
-  {
-    "proxy": "https://185.233.202.217:5858",
-    "latency": 426.64,
-    "type": "https"
-  },
-  {
-    "proxy": "https://45.177.178.23:999",
-    "latency": 3835.95,
-    "type": "https"
-  },
-  {
-    "proxy": "https://193.53.127.169:80",
-    "latency": 709.15,
-    "type": "https"
-  },
-  {
-    "proxy": "https://188.19.15.242:8080",
-    "latency": 8339.12,
-    "type": "https"
-  },
-  {
-    "proxy": "https://47.238.130.212:5060",
-    "latency": 2405.73,
-    "type": "https"
-  },
-  {
-    "proxy": "https://103.172.197.231:8080",
-    "latency": 4288.3,
-    "type": "https"
-  },
-  {
-    "proxy": "https://192.203.0.166:999",
-    "latency": 840.21,
-    "type": "https"
-  },
-  {
-    "proxy": "https://149.2.83.6:8080",
-    "latency": 871.07,
-    "type": "https"
-  },
-  {
-    "proxy": "https://103.151.17.201:8080",
-    "latency": 7080.03,
-    "type": "https"
-  },
-  {
-    "proxy": "https://38.253.85.27:999",
-    "latency": 3839.79,
-    "type": "https"
-  },
-  {
-    "proxy": "https://200.59.191.234:999",
-    "latency": 2271.2,
-    "type": "https"
-  },
-  {
-    "proxy": "https://204.199.120.60:8080",
-    "latency": 9282.14,
-    "type": "https"
-  },
-  {
-    "proxy": "https://122.52.234.54:8081",
-    "latency": 4693.05,
-    "type": "https"
-  },
-  {
-    "proxy": "https://204.199.139.53:999",
-    "latency": 582.89,
-    "type": "https"
-  },
-  {
-    "proxy": "https://176.226.200.167:80",
-    "latency": 609.41,
-    "type": "https"
-  },
-  {
-    "proxy": "https://103.232.228.138:8080",
-    "latency": 5044.75,
-    "type": "https"
-  },
-  {
-    "proxy": "https://161.248.190.83:8080",
-    "latency": 13630.54,
-    "type": "https"
-  },
-  {
-    "proxy": "https://82.26.93.30:3128",
-    "latency": 1226.69,
-    "type": "https"
-  },
-  {
-    "proxy": "https://47.91.29.151:194",
-    "latency": 2307.06,
-    "type": "https"
-  },
-  {
-    "proxy": "https://8.211.194.85:4444",
-    "latency": 2163.58,
-    "type": "https"
-  },
-  {
-    "proxy": "https://8.211.194.78:6666",
-    "latency": 2164.52,
-    "type": "https"
-  },
-  {
-    "proxy": "https://201.91.248.67:20183",
-    "latency": 2427.99,
-    "type": "https"
-  },
-  {
-    "proxy": "https://114.215.127.92:2080",
-    "latency": 2554.38,
-    "type": "https"
-  },
-  {
-    "proxy": "https://202.6.206.78:8082",
-    "latency": 4049.96,
-    "type": "https"
-  },
-  {
-    "proxy": "https://163.227.144.96:8090",
-    "latency": 6390.39,
-    "type": "https"
-  },
-  {
-    "proxy": "https://48.210.225.96:80",
-    "latency": 721.15,
-    "type": "https"
-  },
-  {
-    "proxy": "https://34.136.200.110:80",
-    "latency": 62.81,
-    "type": "https"
-  },
-  {
-    "proxy": "https://171.4.177.114:8080",
-    "latency": 6385.89,
-    "type": "https"
-  },
-  {
-    "proxy": "https://113.161.59.136:8080",
-    "latency": 8227.59,
-    "type": "https"
-  },
-  {
-    "proxy": "https://154.18.255.11:1111",
-    "latency": 2307.71,
-    "type": "https"
-  },
-  {
-    "proxy": "https://185.162.60.45:8080",
-    "latency": 462.34,
-    "type": "https"
-  },
-  {
-    "proxy": "https://190.60.52.175:999",
-    "latency": 6985.94,
-    "type": "https"
-  },
-  {
-    "proxy": "https://8.211.49.86:10000",
-    "latency": 2206.18,
-    "type": "https"
-  },
-  {
-    "proxy": "https://103.48.69.33:83",
-    "latency": 3135.13,
-    "type": "https"
-  },
-  {
-    "proxy": "https://103.193.145.137:8080",
-    "latency": 4100.57,
-    "type": "https"
-  },
-  {
-    "proxy": "https://103.164.214.122:8080",
-    "latency": 2491.29,
-    "type": "https"
-  },
-  {
-    "proxy": "https://103.222.255.195:8080",
-    "latency": 2558.91,
-    "type": "https"
-  },
-  {
-    "proxy": "https://182.253.38.179:3128",
-    "latency": 9001.12,
-    "type": "https"
-  },
-  {
-    "proxy": "https://121.126.88.29:15648",
-    "latency": 2594.36,
-    "type": "https"
-  },
-  {
-    "proxy": "https://185.80.21.92:8080",
-    "latency": 3075.09,
-    "type": "https"
-  },
-  {
-    "proxy": "https://58.147.189.63:8081",
-    "latency": 6890.45,
-    "type": "https"
-  },
-  {
-    "proxy": "https://188.40.57.101:80",
-    "latency": 440.15,
-    "type": "https"
-  },
-  {
-    "proxy": "https://103.253.246.181:8090",
-    "latency": 13839.43,
-    "type": "https"
-  },
-  {
-    "proxy": "https://45.168.244.16:8080",
-    "latency": 3686.08,
-    "type": "https"
-  },
-  {
-    "proxy": "https://177.135.230.82:80",
-    "latency": 606.76,
-    "type": "https"
-  },
-  {
-    "proxy": "https://200.48.35.125:999",
-    "latency": 6496.36,
-    "type": "https"
-  },
-  {
-    "proxy": "https://194.44.177.225:8080",
-    "latency": 3749.72,
-    "type": "https"
-  },
-  {
-    "proxy": "https://8.220.205.172:3749",
-    "latency": 2389.46,
-    "type": "https"
-  },
-  {
-    "proxy": "https://181.174.231.26:999",
-    "latency": 1955.51,
-    "type": "https"
-  },
-  {
-    "proxy": "https://47.254.36.213:123",
-    "latency": 2908.46,
-    "type": "https"
-  },
-  {
-    "proxy": "https://190.97.254.180:8080",
-    "latency": 5400.09,
-    "type": "https"
-  },
-  {
-    "proxy": "https://47.91.89.3:6379",
-    "latency": 2189.97,
-    "type": "https"
-  },
-  {
-    "proxy": "https://147.75.34.105:443",
-    "latency": 2583.55,
-    "type": "https"
-  },
-  {
-    "proxy": "https://8.221.139.222:8028",
-    "latency": 2307.44,
-    "type": "https"
-  },
-  {
-    "proxy": "https://8.213.197.208:5060",
-    "latency": 2517.4,
-    "type": "https"
-  },
-  {
-    "proxy": "https://115.144.173.66:15648",
-    "latency": 6492.35,
-    "type": "https"
-  },
-  {
-    "proxy": "https://47.94.108.52:8081",
-    "latency": 542.99,
-    "type": "https"
-  },
-  {
-    "proxy": "https://103.48.71.62:83",
-    "latency": 8367.93,
-    "type": "https"
-  },
-  {
-    "proxy": "https://8.212.165.164:5094",
-    "latency": 2513.43,
-    "type": "https"
-  },
-  {
-    "proxy": "https://103.19.58.151:8080",
-    "latency": 8306.55,
-    "type": "https"
-  },
-  {
-    "proxy": "https://97.74.87.226:80",
-    "latency": 1484.74,
-    "type": "https"
-  },
-  {
-    "proxy": "https://47.91.29.151:8443",
-    "latency": 2325.04,
-    "type": "https"
-  },
-  {
-    "proxy": "https://51.48.124.225:8724",
-    "latency": 474.14,
-    "type": "https"
-  },
-  {
-    "proxy": "https://43.167.193.58:3129",
-    "latency": 483.62,
-    "type": "https"
-  },
-  {
-    "proxy": "https://103.122.0.151:8181",
-    "latency": 13900.01,
-    "type": "https"
-  },
-  {
-    "proxy": "https://101.109.209.83:8080",
-    "latency": 8036.22,
-    "type": "https"
-  },
-  {
-    "proxy": "https://8.220.204.92:8081",
-    "latency": 2403.76,
-    "type": "https"
-  },
-  {
-    "proxy": "https://147.45.179.84:1081",
-    "latency": 320.13,
-    "type": "https"
-  },
-  {
-    "proxy": "https://190.60.61.42:8080",
-    "latency": 11159.07,
-    "type": "https"
-  },
-  {
-    "proxy": "https://45.167.124.235:999",
-    "latency": 3443.59,
-    "type": "https"
-  },
-  {
-    "proxy": "https://139.162.200.213:80",
-    "latency": 337.58,
-    "type": "https"
-  },
-  {
-    "proxy": "https://174.138.119.88:80",
-    "latency": 184.95,
-    "type": "https"
-  },
-  {
-    "proxy": "https://35.231.141.222:80",
-    "latency": 137.89,
-    "type": "https"
-  },
-  {
-    "proxy": "https://109.69.76.64:8080",
-    "latency": 17588.68,
-    "type": "https"
-  },
-  {
-    "proxy": "https://38.188.247.12:999",
-    "latency": 5733.41,
-    "type": "https"
-  },
-  {
-    "proxy": "https://186.67.94.10:999",
-    "latency": 2223.82,
-    "type": "https"
-  },
-  {
-    "proxy": "https://8.213.134.213:9091",
-    "latency": 2381.27,
-    "type": "https"
-  },
-  {
-    "proxy": "https://4.213.167.178:80",
-    "latency": 906.56,
-    "type": "https"
-  },
-  {
-    "proxy": "https://212.34.137.97:33905",
-    "latency": 1943.95,
-    "type": "https"
-  },
-  {
-    "proxy": "https://188.132.221.21:8080",
-    "latency": 1275.41,
-    "type": "https"
-  },
-  {
-    "proxy": "https://85.112.71.208:8080",
-    "latency": 2543.57,
-    "type": "https"
-  },
-  {
-    "proxy": "https://34.79.221.197:80",
-    "latency": 175.44,
-    "type": "https"
-  },
-  {
-    "proxy": "https://198.199.86.11:8080",
-    "latency": 417.73,
-    "type": "https"
-  },
-  {
-    "proxy": "https://163.172.53.142:80",
-    "latency": 352.86,
-    "type": "https"
-  },
-  {
-    "proxy": "https://220.152.115.28:6000",
-    "latency": 13252.71,
-    "type": "https"
-  },
-  {
-    "proxy": "https://16.78.82.73:4938",
-    "latency": 986.26,
-    "type": "https"
-  },
-  {
-    "proxy": "https://202.179.2.250:8080",
-    "latency": 2849.9,
-    "type": "https"
-  },
-  {
-    "proxy": "https://8.130.37.235:8081",
-    "latency": 2532.05,
-    "type": "https"
-  },
-  {
-    "proxy": "https://138.68.60.8:3128",
-    "latency": 3259.91,
-    "type": "https"
-  },
-  {
-    "proxy": "https://175.138.75.137:8080",
-    "latency": 10406.63,
-    "type": "https"
-  },
-  {
-    "proxy": "https://59.153.19.2:20909",
-    "latency": 4261.0,
-    "type": "https"
-  },
-  {
-    "proxy": "https://190.60.44.109:999",
-    "latency": 678.11,
-    "type": "https"
-  },
-  {
-    "proxy": "https://163.223.116.246:7777",
-    "latency": 4817.27,
-    "type": "https"
-  },
-  {
-    "proxy": "https://131.0.234.54:55555",
-    "latency": 14056.2,
-    "type": "https"
-  },
-  {
-    "proxy": "https://116.171.106.78:3000",
-    "latency": 4202.25,
-    "type": "https"
-  },
-  {
-    "proxy": "https://209.97.150.167:80",
-    "latency": 3206.8,
-    "type": "https"
-  },
-  {
-    "proxy": "https://124.158.184.21:64999",
-    "latency": 4336.88,
-    "type": "https"
-  },
-  {
-    "proxy": "https://186.116.148.52:8080",
-    "latency": 2950.53,
-    "type": "https"
-  },
-  {
-    "proxy": "https://204.199.140.16:999",
-    "latency": 7045.8,
-    "type": "https"
-  },
-  {
-    "proxy": "https://162.240.19.30:80",
-    "latency": 14623.48,
-    "type": "https"
-  },
-  {
-    "proxy": "https://8.213.156.191:8444",
-    "latency": 2404.01,
-    "type": "https"
-  },
-  {
-    "proxy": "https://157.66.16.63:8181",
-    "latency": 4197.7,
-    "type": "https"
-  },
-  {
-    "proxy": "https://190.121.151.17:999",
-    "latency": 3919.1,
-    "type": "https"
-  },
-  {
-    "proxy": "https://157.245.40.210:80",
-    "latency": 794.11,
-    "type": "https"
-  },
-  {
-    "proxy": "https://103.190.202.92:8080",
-    "latency": 517.15,
-    "type": "https"
-  },
-  {
-    "proxy": "https://59.6.25.118:3128",
-    "latency": 560.24,
-    "type": "https"
-  },
-  {
-    "proxy": "https://49.254.249.198:15648",
-    "latency": 4841.7,
-    "type": "https"
-  },
-  {
-    "proxy": "https://120.55.240.71:8647",
-    "latency": 937.66,
-    "type": "https"
-  },
-  {
-    "proxy": "https://45.231.223.250:999",
-    "latency": 14991.48,
-    "type": "https"
-  },
-  {
-    "proxy": "https://103.242.104.209:8080",
-    "latency": 4148.5,
-    "type": "https"
-  },
-  {
-    "proxy": "https://39.102.208.236:9098",
-    "latency": 3247.38,
-    "type": "https"
-  },
-  {
-    "proxy": "https://118.97.75.83:8080",
-    "latency": 5331.48,
-    "type": "https"
-  },
-  {
-    "proxy": "https://38.191.204.87:999",
-    "latency": 2420.36,
-    "type": "https"
-  },
-  {
-    "proxy": "https://154.0.12.163:80",
-    "latency": 6301.42,
-    "type": "https"
-  },
-  {
-    "proxy": "https://200.24.130.149:999",
-    "latency": 6881.56,
-    "type": "https"
-  },
-  {
-    "proxy": "https://195.87.182.10:9090",
-    "latency": 8119.64,
-    "type": "https"
-  },
-  {
-    "proxy": "https://123.200.10.46:8081",
-    "latency": 3536.71,
-    "type": "https"
-  },
-  {
-    "proxy": "https://167.172.253.162:4857",
-    "latency": 426.18,
-    "type": "https"
-  },
-  {
-    "proxy": "https://141.101.205.205:3128",
-    "latency": 4724.61,
-    "type": "https"
-  },
-  {
-    "proxy": "https://8.209.96.245:89",
-    "latency": 2184.97,
-    "type": "https"
-  },
-  {
-    "proxy": "https://52.188.28.218:3128",
-    "latency": 151.89,
-    "type": "https"
-  },
-  {
-    "proxy": "https://5.102.109.41:999",
-    "latency": 7892.8,
-    "type": "https"
-  },
-  {
-    "proxy": "https://220.152.115.96:6000",
-    "latency": 17749.79,
-    "type": "https"
-  },
-  {
-    "proxy": "https://103.155.64.131:8080",
-    "latency": 15383.76,
-    "type": "https"
-  },
-  {
-    "proxy": "https://39.102.208.236:8081",
-    "latency": 2507.46,
-    "type": "https"
-  },
-  {
-    "proxy": "https://103.169.128.157:8080",
-    "latency": 4498.85,
-    "type": "https"
-  },
-  {
-    "proxy": "https://20.204.43.57:80",
-    "latency": 943.57,
-    "type": "https"
-  },
-  {
-    "proxy": "https://160.19.19.101:8080",
-    "latency": 5811.13,
-    "type": "https"
-  },
-  {
-    "proxy": "https://154.64.219.61:8888",
-    "latency": 10591.36,
-    "type": "https"
-  },
-  {
-    "proxy": "https://197.221.249.198:80",
-    "latency": 6136.76,
-    "type": "https"
-  },
-  {
-    "proxy": "https://38.45.246.115:999",
-    "latency": 13330.66,
-    "type": "https"
-  },
-  {
-    "proxy": "https://8.211.195.173:5060",
-    "latency": 2178.53,
-    "type": "https"
-  },
-  {
-    "proxy": "https://159.65.230.46:8888",
-    "latency": 85.12,
-    "type": "https"
-  },
-  {
-    "proxy": "https://217.217.254.94:8080",
-    "latency": 803.06,
-    "type": "https"
-  },
-  {
-    "proxy": "https://39.104.16.201:8443",
-    "latency": 2521.18,
-    "type": "https"
-  },
-  {
-    "proxy": "https://8.215.12.103:80",
-    "latency": 2477.37,
-    "type": "https"
-  },
-  {
-    "proxy": "https://15.204.151.144:3128",
-    "latency": 8259.07,
-    "type": "https"
-  },
-  {
-    "proxy": "https://177.39.72.73:8080",
-    "latency": 6677.9,
-    "type": "https"
-  },
-  {
-    "proxy": "https://185.86.195.166:8080",
-    "latency": 3808.64,
-    "type": "https"
-  },
-  {
-    "proxy": "https://110.42.60.178:3128",
-    "latency": 14155.76,
-    "type": "https"
-  },
-  {
-    "proxy": "https://47.74.46.81:8080",
-    "latency": 2310.94,
-    "type": "https"
-  },
-  {
-    "proxy": "https://8.213.197.208:9098",
-    "latency": 2507.59,
-    "type": "https"
-  },
-  {
-    "proxy": "https://103.39.70.252:8181",
-    "latency": 18572.35,
-    "type": "https"
-  },
-  {
-    "proxy": "https://8.211.195.139:8443",
-    "latency": 2167.03,
-    "type": "https"
-  },
-  {
-    "proxy": "https://200.125.169.165:999",
-    "latency": 3148.64,
-    "type": "https"
-  },
-  {
-    "proxy": "https://45.190.78.20:999",
-    "latency": 6288.69,
-    "type": "https"
-  },
-  {
-    "proxy": "https://203.190.117.100:8076",
-    "latency": 12387.71,
-    "type": "https"
-  },
-  {
-    "proxy": "https://38.199.71.103:999",
-    "latency": 1991.8,
-    "type": "https"
-  },
-  {
-    "proxy": "https://103.115.243.237:2214",
-    "latency": 9748.24,
-    "type": "https"
-  },
-  {
-    "proxy": "https://8.222.175.80:6128",
-    "latency": 7914.37,
-    "type": "https"
-  },
-  {
-    "proxy": "https://103.177.20.27:8181",
-    "latency": 6711.27,
-    "type": "https"
-  },
-  {
-    "proxy": "https://103.227.187.233:6090",
-    "latency": 11576.82,
-    "type": "https"
-  },
-  {
-    "proxy": "https://196.251.131.91:8080",
-    "latency": 2328.19,
-    "type": "https"
-  },
-  {
-    "proxy": "https://177.229.197.230:999",
-    "latency": 7138.09,
-    "type": "https"
-  },
-  {
-    "proxy": "https://103.191.254.245:1024",
-    "latency": 17104.22,
-    "type": "https"
-  },
-  {
-    "proxy": "https://103.118.152.12:8080",
-    "latency": 10144.16,
-    "type": "https"
-  },
-  {
-    "proxy": "https://8.243.197.201:999",
-    "latency": 11055.31,
-    "type": "https"
-  },
-  {
-    "proxy": "https://150.107.140.238:3128",
-    "latency": 2377.02,
-    "type": "https"
-  },
-  {
-    "proxy": "https://163.223.96.122:8080",
-    "latency": 9815.92,
-    "type": "https"
-  },
-  {
-    "proxy": "https://202.47.184.22:8085",
-    "latency": 8368.18,
-    "type": "https"
-  },
-  {
-    "proxy": "https://134.199.192.3:3128",
-    "latency": 10672.43,
-    "type": "https"
-  },
-  {
-    "proxy": "https://103.161.69.252:2698",
-    "latency": 6470.62,
-    "type": "https"
-  },
-  {
-    "proxy": "https://200.59.191.235:999",
-    "latency": 2010.34,
-    "type": "https"
-  },
-  {
-    "proxy": "https://109.198.107.237:3128",
-    "latency": 2972.67,
-    "type": "https"
-  },
-  {
-    "proxy": "https://45.236.66.163:8520",
-    "latency": 2937.46,
-    "type": "https"
-  },
-  {
-    "proxy": "https://181.78.86.210:999",
-    "latency": 3409.63,
-    "type": "https"
-  },
-  {
-    "proxy": "https://181.78.95.99:999",
-    "latency": 5199.14,
-    "type": "https"
-  },
-  {
-    "proxy": "https://45.22.209.157:8888",
-    "latency": 380.44,
-    "type": "https"
-  },
-  {
-    "proxy": "https://202.152.44.18:8081",
-    "latency": 2067.09,
-    "type": "https"
-  },
-  {
-    "proxy": "https://103.188.169.202:7777",
-    "latency": 4029.69,
-    "type": "https"
-  },
-  {
-    "proxy": "https://154.117.154.194:8080",
-    "latency": 12427.06,
-    "type": "https"
-  },
-  {
-    "proxy": "https://141.0.11.254:80",
-    "latency": 464.0,
-    "type": "https"
-  },
-  {
-    "proxy": "https://103.169.254.105:8080",
-    "latency": 1417.68,
-    "type": "https"
-  },
-  {
-    "proxy": "https://110.44.115.83:8080",
-    "latency": 7007.15,
-    "type": "https"
-  },
-  {
-    "proxy": "https://47.238.130.212:20",
-    "latency": 2416.7,
-    "type": "https"
-  },
-  {
-    "proxy": "https://103.153.63.146:8080",
-    "latency": 5463.87,
-    "type": "https"
-  },
-  {
-    "proxy": "https://197.255.126.69:80",
-    "latency": 8050.34,
-    "type": "https"
-  },
-  {
-    "proxy": "https://103.159.195.247:8080",
-    "latency": 7166.19,
-    "type": "https"
-  },
-  {
-    "proxy": "https://8.221.141.88:8081",
-    "latency": 3147.1,
-    "type": "https"
-  },
-  {
-    "proxy": "https://8.221.138.111:3128",
-    "latency": 2345.47,
-    "type": "https"
-  },
-  {
-    "proxy": "https://123.200.6.154:4126",
-    "latency": 2091.12,
-    "type": "https"
-  },
-  {
-    "proxy": "https://47.250.11.111:808",
-    "latency": 2481.18,
-    "type": "https"
-  },
-  {
-    "proxy": "https://157.230.220.25:4857",
-    "latency": 1195.95,
-    "type": "https"
-  },
-  {
-    "proxy": "https://103.189.11.141:8888",
-    "latency": 3468.14,
-    "type": "https"
-  },
-  {
-    "proxy": "https://176.236.227.106:8080",
-    "latency": 5019.57,
-    "type": "https"
-  },
-  {
-    "proxy": "https://103.157.117.226:81",
-    "latency": 3411.42,
-    "type": "https"
-  },
-  {
-    "proxy": "https://91.233.169.23:8081",
-    "latency": 496.34,
-    "type": "https"
-  },
-  {
-    "proxy": "https://139.255.94.123:39635",
-    "latency": 6498.09,
-    "type": "https"
-  },
-  {
-    "proxy": "https://40.89.145.14:80",
-    "latency": 462.38,
-    "type": "https"
-  },
-  {
-    "proxy": "https://34.48.171.130:33080",
-    "latency": 5031.91,
-    "type": "https"
-  },
-  {
-    "proxy": "https://178.22.31.205:1082",
-    "latency": 4586.73,
-    "type": "https"
-  },
-  {
-    "proxy": "https://139.196.46.164:8888",
-    "latency": 933.46,
-    "type": "https"
-  },
-  {
-    "proxy": "https://103.141.105.74:55",
-    "latency": 8688.93,
-    "type": "https"
-  },
-  {
-    "proxy": "https://154.0.153.10:8080",
-    "latency": 7238.18,
-    "type": "https"
-  },
-  {
-    "proxy": "https://8.213.134.213:2000",
-    "latency": 2364.78,
-    "type": "https"
-  },
-  {
-    "proxy": "https://103.184.180.249:8097",
-    "latency": 9402.88,
-    "type": "https"
-  },
-  {
-    "proxy": "https://8.212.153.179:443",
-    "latency": 8804.67,
-    "type": "https"
-  },
-  {
-    "proxy": "https://84.36.37.201:1981",
-    "latency": 12426.7,
-    "type": "https"
-  },
-  {
-    "proxy": "https://103.156.16.105:8818",
-    "latency": 6561.57,
-    "type": "https"
-  },
-  {
-    "proxy": "https://103.171.83.49:8080",
-    "latency": 15384.89,
-    "type": "https"
-  },
-  {
-    "proxy": "https://47.251.74.38:9080",
-    "latency": 2135.0,
-    "type": "https"
-  },
-  {
-    "proxy": "https://176.117.106.133:8080",
-    "latency": 4475.69,
-    "type": "https"
-  },
-  {
-    "proxy": "https://103.191.218.75:3125",
-    "latency": 13448.29,
-    "type": "https"
-  },
-  {
-    "proxy": "https://8.221.141.88:80",
-    "latency": 2331.12,
-    "type": "https"
-  },
-  {
-    "proxy": "https://47.90.149.238:10008",
-    "latency": 2016.61,
-    "type": "https"
-  },
-  {
-    "proxy": "https://103.97.140.17:8080",
-    "latency": 4649.57,
-    "type": "https"
-  },
-  {
-    "proxy": "https://138.68.60.8:8080",
-    "latency": 1445.4,
-    "type": "https"
-  },
-  {
-    "proxy": "https://139.162.78.109:3128",
-    "latency": 9181.88,
-    "type": "https"
-  },
-  {
-    "proxy": "https://177.234.217.238:999",
-    "latency": 4900.93,
-    "type": "https"
-  },
-  {
-    "proxy": "https://162.245.85.36:80",
-    "latency": 114.82,
-    "type": "https"
-  },
-  {
-    "proxy": "https://47.100.130.127:8080",
-    "latency": 2533.97,
-    "type": "https"
-  },
-  {
-    "proxy": "https://8.221.139.222:3129",
-    "latency": 2307.36,
-    "type": "https"
-  },
-  {
-    "proxy": "https://196.251.223.29:8104",
-    "latency": 12835.58,
-    "type": "https"
-  },
-  {
-    "proxy": "https://103.156.233.137:8080",
-    "latency": 11737.95,
-    "type": "https"
-  },
-  {
-    "proxy": "https://203.150.113.163:8080",
-    "latency": 9165.27,
-    "type": "https"
-  },
-  {
-    "proxy": "https://160.20.38.102:8080",
-    "latency": 12802.73,
-    "type": "https"
-  },
-  {
-    "proxy": "https://38.191.213.135:999",
-    "latency": 5505.64,
-    "type": "https"
-  },
-  {
-    "proxy": "https://103.172.17.28:8080",
-    "latency": 2440.21,
-    "type": "https"
-  },
-  {
-    "proxy": "https://103.19.78.127:3125",
-    "latency": 4578.65,
-    "type": "https"
-  },
-  {
-    "proxy": "https://101.255.208.18:8090",
-    "latency": 997.83,
-    "type": "https"
-  },
-  {
-    "proxy": "https://116.80.45.151:3172",
-    "latency": 2546.36,
-    "type": "https"
-  },
-  {
-    "proxy": "https://102.209.18.68:8080",
-    "latency": 4396.36,
-    "type": "https"
-  },
-  {
-    "proxy": "https://103.159.195.183:1080",
-    "latency": 1261.53,
-    "type": "https"
-  },
-  {
-    "proxy": "https://123.57.0.163:8888",
-    "latency": 974.59,
-    "type": "https"
-  },
-  {
-    "proxy": "https://92.86.207.198:8080",
-    "latency": 5331.04,
-    "type": "https"
-  },
-  {
-    "proxy": "https://103.134.85.145:3128",
-    "latency": 9121.04,
-    "type": "https"
-  },
-  {
-    "proxy": "https://177.10.44.190:8080",
-    "latency": 5521.2,
-    "type": "https"
-  },
-  {
-    "proxy": "https://182.253.215.158:8080",
-    "latency": 12550.51,
-    "type": "https"
-  },
-  {
-    "proxy": "https://8.213.197.208:3129",
-    "latency": 2527.6,
-    "type": "https"
-  },
-  {
-    "proxy": "https://8.213.215.187:3128",
-    "latency": 2518.06,
-    "type": "https"
-  },
-  {
-    "proxy": "https://45.43.137.24:40000",
-    "latency": 8331.69,
-    "type": "https"
-  },
-  {
-    "proxy": "https://157.230.94.38:80",
-    "latency": 94.65,
-    "type": "https"
-  },
-  {
-    "proxy": "https://49.146.238.76:8080",
-    "latency": 3569.04,
-    "type": "https"
-  },
-  {
-    "proxy": "https://200.24.141.161:999",
-    "latency": 5559.11,
-    "type": "https"
-  },
-  {
-    "proxy": "https://38.180.27.120:3128",
-    "latency": 10170.97,
-    "type": "https"
-  },
-  {
-    "proxy": "https://47.104.28.135:8008",
-    "latency": 2524.79,
-    "type": "https"
-  },
-  {
-    "proxy": "https://47.251.87.199:8088",
-    "latency": 2194.25,
-    "type": "https"
-  },
-  {
-    "proxy": "https://95.128.137.159:65056",
-    "latency": 5660.12,
-    "type": "https"
-  },
-  {
-    "proxy": "https://138.124.117.139:31645",
-    "latency": 3526.36,
-    "type": "https"
-  },
-  {
-    "proxy": "https://106.14.91.83:9095",
-    "latency": 2466.95,
-    "type": "https"
-  },
-  {
-    "proxy": "https://178.22.31.205:1081",
-    "latency": 2534.42,
-    "type": "https"
-  },
-  {
-    "proxy": "https://159.65.245.255:80",
-    "latency": 88.4,
-    "type": "https"
-  },
-  {
-    "proxy": "https://138.117.13.129:999",
-    "latency": 4429.4,
-    "type": "https"
-  },
-  {
-    "proxy": "https://155.93.96.210:8080",
-    "latency": 11597.96,
-    "type": "https"
-  },
-  {
-    "proxy": "https://15.204.151.142:3128",
-    "latency": 1507.15,
-    "type": "https"
-  },
-  {
-    "proxy": "https://103.156.16.12:8818",
-    "latency": 1060.75,
-    "type": "https"
+    "proxy": "http://91.98.78.64:80",
+    "latency": 6557.24,
+    "type": "http"
   },
   {
-    "proxy": "https://45.144.232.249:54105",
-    "latency": 9014.15,
+    "proxy": "https://24.152.58.22:999",
+    "latency": 2177.84,
     "type": "https"
   },
   {
-    "proxy": "https://65.108.203.36:28080",
-    "latency": 341.15,
+    "proxy": "https://220.152.115.59:6000",
+    "latency": 20809.11,
     "type": "https"
   },
   {
-    "proxy": "https://152.70.84.108:8080",
-    "latency": 5349.87,
+    "proxy": "https://78.12.223.246:59200",
+    "latency": 329.73,
     "type": "https"
   },
   {
-    "proxy": "https://120.92.212.16:7890",
-    "latency": 985.94,
+    "proxy": "https://12.50.107.221:80",
+    "latency": 119.15,
     "type": "https"
   },
   {
-    "proxy": "https://8.220.136.174:9098",
-    "latency": 2503.04,
+    "proxy": "https://149.129.226.9:6379",
+    "latency": 2480.7,
     "type": "https"
   },
   {
-    "proxy": "https://123.205.71.210:80",
-    "latency": 847.94,
+    "proxy": "https://145.220.178.2:1080",
+    "latency": 5062.99,
     "type": "https"
   },
   {
-    "proxy": "https://82.145.209.253:80",
-    "latency": 172.94,
+    "proxy": "https://8.220.204.92:41",
+    "latency": 2365.68,
     "type": "https"
   },
   {
     "proxy": "https://8.211.194.78:1081",
-    "latency": 2175.0,
+    "latency": 2155.77,
     "type": "https"
   },
   {
-    "proxy": "https://103.145.161.18:8080",
-    "latency": 5591.84,
+    "proxy": "https://109.91.247.181:8080",
+    "latency": 7396.07,
     "type": "https"
   },
   {
-    "proxy": "https://180.191.233.16:8085",
-    "latency": 5412.26,
+    "proxy": "https://109.111.242.134:6666",
+    "latency": 7316.78,
     "type": "https"
   },
   {
-    "proxy": "https://154.236.177.101:1976",
-    "latency": 2802.01,
+    "proxy": "https://209.97.150.167:3128",
+    "latency": 2091.19,
     "type": "https"
   },
   {
-    "proxy": "https://88.119.139.237:53281",
-    "latency": 4596.51,
+    "proxy": "https://157.15.41.198:8082",
+    "latency": 11588.87,
     "type": "https"
   },
   {
-    "proxy": "https://138.201.245.91:8080",
-    "latency": 190.26,
+    "proxy": "https://222.165.205.212:1452",
+    "latency": 4084.9,
     "type": "https"
   },
   {
-    "proxy": "https://103.129.3.246:83",
-    "latency": 9222.96,
+    "proxy": "https://8.211.194.85:18080",
+    "latency": 2167.34,
     "type": "https"
   },
   {
-    "proxy": "https://20.83.26.240:3128",
-    "latency": 12999.24,
+    "proxy": "https://47.121.182.36:39",
+    "latency": 2615.98,
     "type": "https"
   },
   {
-    "proxy": "https://47.238.134.126:8443",
-    "latency": 2405.73,
+    "proxy": "https://8.221.139.222:5060",
+    "latency": 2458.09,
     "type": "https"
   },
   {
-    "proxy": "https://119.93.14.61:8082",
-    "latency": 2102.92,
+    "proxy": "https://62.84.103.115:16431",
+    "latency": 10901.5,
     "type": "https"
   },
   {
-    "proxy": "https://91.107.154.88:80",
-    "latency": 3474.95,
+    "proxy": "https://47.251.74.38:161",
+    "latency": 2129.56,
     "type": "https"
   },
   {
-    "proxy": "https://14.143.222.113:10154",
-    "latency": 701.17,
+    "proxy": "https://8.213.197.208:80",
+    "latency": 2492.21,
     "type": "https"
   },
   {
-    "proxy": "https://47.238.134.126:51",
-    "latency": 2398.12,
+    "proxy": "https://175.139.233.76:80",
+    "latency": 12318.78,
     "type": "https"
   },
   {
-    "proxy": "https://103.160.205.208:8097",
-    "latency": 9084.84,
+    "proxy": "https://51.250.88.121:9998",
+    "latency": 476.86,
     "type": "https"
   },
   {
-    "proxy": "https://118.70.13.38:41857",
-    "latency": 6340.82,
+    "proxy": "https://101.132.249.207:8118",
+    "latency": 2478.97,
     "type": "https"
   },
   {
-    "proxy": "https://176.213.141.107:8080",
-    "latency": 1918.98,
+    "proxy": "https://103.133.27.42:8090",
+    "latency": 8001.82,
     "type": "https"
   },
   {
-    "proxy": "https://106.1.94.48:8888",
-    "latency": 1757.33,
+    "proxy": "https://211.250.42.219:80",
+    "latency": 799.38,
     "type": "https"
   },
   {
-    "proxy": "https://163.227.146.17:8181",
-    "latency": 12972.49,
+    "proxy": "https://185.128.240.77:8080",
+    "latency": 9320.85,
     "type": "https"
   },
   {
-    "proxy": "https://8.213.222.157:4002",
-    "latency": 2512.13,
+    "proxy": "https://91.84.117.49:10880",
+    "latency": 10843.46,
     "type": "https"
   },
   {
-    "proxy": "https://8.130.37.235:8080",
-    "latency": 2518.55,
+    "proxy": "https://191.97.14.189:999",
+    "latency": 4806.8,
     "type": "https"
   },
   {
-    "proxy": "https://103.238.232.126:8080",
-    "latency": 5879.73,
+    "proxy": "https://8.211.200.183:10000",
+    "latency": 2173.68,
     "type": "https"
   },
   {
-    "proxy": "https://82.165.20.115:80",
-    "latency": 10043.75,
+    "proxy": "https://8.221.141.88:31433",
+    "latency": 2317.04,
     "type": "https"
   },
   {
-    "proxy": "https://183.215.23.242:9091",
-    "latency": 1084.62,
+    "proxy": "https://190.60.61.204:999",
+    "latency": 4143.55,
     "type": "https"
   },
   {
-    "proxy": "https://165.101.230.77:8080",
-    "latency": 8099.25,
+    "proxy": "https://167.99.124.118:80",
+    "latency": 13339.56,
     "type": "https"
   },
   {
-    "proxy": "https://8.211.194.85:144",
-    "latency": 2183.13,
+    "proxy": "https://47.251.74.38:98",
+    "latency": 2153.4,
     "type": "https"
   },
   {
-    "proxy": "https://103.125.39.93:8080",
-    "latency": 2537.61,
+    "proxy": "https://103.166.159.235:8080",
+    "latency": 14846.19,
+    "type": "https"
+  },
+  {
+    "proxy": "https://145.220.178.7:8080",
+    "latency": 2831.47,
+    "type": "https"
+  },
+  {
+    "proxy": "https://185.88.177.40:80",
+    "latency": 654.57,
+    "type": "https"
+  },
+  {
+    "proxy": "https://97.213.76.123:80",
+    "latency": 9361.69,
+    "type": "https"
+  },
+  {
+    "proxy": "https://8.211.195.139:202",
+    "latency": 2159.41,
+    "type": "https"
+  },
+  {
+    "proxy": "https://58.8.255.181:80",
+    "latency": 1047.31,
+    "type": "https"
+  },
+  {
+    "proxy": "https://85.133.227.182:80",
+    "latency": 5413.2,
+    "type": "https"
+  },
+  {
+    "proxy": "https://8.213.134.213:8080",
+    "latency": 2385.73,
+    "type": "https"
+  },
+  {
+    "proxy": "https://194.58.34.63:3128",
+    "latency": 336.67,
+    "type": "https"
+  },
+  {
+    "proxy": "https://175.100.35.103:8080",
+    "latency": 6194.35,
+    "type": "https"
+  },
+  {
+    "proxy": "https://12.50.107.219:80",
+    "latency": 532.33,
+    "type": "https"
+  },
+  {
+    "proxy": "https://14.52.8.2:10080",
+    "latency": 988.55,
+    "type": "https"
+  },
+  {
+    "proxy": "https://103.172.42.175:8082",
+    "latency": 2149.73,
+    "type": "https"
+  },
+  {
+    "proxy": "https://141.0.11.254:80",
+    "latency": 492.16,
+    "type": "https"
+  },
+  {
+    "proxy": "https://164.92.137.207:3128",
+    "latency": 10490.36,
+    "type": "https"
+  },
+  {
+    "proxy": "https://103.109.204.94:8080",
+    "latency": 6502.75,
+    "type": "https"
+  },
+  {
+    "proxy": "https://170.244.27.142:8888",
+    "latency": 633.22,
+    "type": "https"
+  },
+  {
+    "proxy": "https://123.30.154.171:7777",
+    "latency": 1069.8,
+    "type": "https"
+  },
+  {
+    "proxy": "https://114.215.127.92:8081",
+    "latency": 2526.85,
+    "type": "https"
+  },
+  {
+    "proxy": "https://8.213.156.191:808",
+    "latency": 2386.87,
+    "type": "https"
+  },
+  {
+    "proxy": "https://201.62.82.4:8080",
+    "latency": 8516.17,
+    "type": "https"
+  },
+  {
+    "proxy": "https://212.114.194.72:80",
+    "latency": 508.98,
+    "type": "https"
+  },
+  {
+    "proxy": "https://128.199.1.8:3128",
+    "latency": 316.26,
+    "type": "https"
+  },
+  {
+    "proxy": "https://220.152.115.44:6000",
+    "latency": 11917.25,
+    "type": "https"
+  },
+  {
+    "proxy": "https://35.200.100.120:80",
+    "latency": 311.1,
+    "type": "https"
+  },
+  {
+    "proxy": "https://35.202.49.74:80",
+    "latency": 228.48,
+    "type": "https"
+  },
+  {
+    "proxy": "https://47.238.128.246:80",
+    "latency": 2417.29,
+    "type": "https"
+  },
+  {
+    "proxy": "https://146.19.9.236:80",
+    "latency": 538.42,
+    "type": "https"
+  },
+  {
+    "proxy": "https://8.211.195.173:45",
+    "latency": 2161.17,
+    "type": "https"
+  },
+  {
+    "proxy": "https://157.20.253.164:8080",
+    "latency": 9235.46,
+    "type": "https"
+  },
+  {
+    "proxy": "https://160.30.141.20:8080",
+    "latency": 5928.75,
+    "type": "https"
+  },
+  {
+    "proxy": "https://185.82.99.211:8724",
+    "latency": 11996.47,
+    "type": "https"
+  },
+  {
+    "proxy": "https://196.204.138.244:1976",
+    "latency": 3984.27,
+    "type": "https"
+  },
+  {
+    "proxy": "https://220.152.115.38:6000",
+    "latency": 18238.47,
+    "type": "https"
+  },
+  {
+    "proxy": "https://45.146.163.31:80",
+    "latency": 1653.26,
+    "type": "https"
+  },
+  {
+    "proxy": "https://46.250.251.246:80",
+    "latency": 4467.08,
+    "type": "https"
+  },
+  {
+    "proxy": "https://14.225.240.23:8562",
+    "latency": 8409.94,
+    "type": "https"
+  },
+  {
+    "proxy": "https://103.75.54.230:8080",
+    "latency": 3738.94,
+    "type": "https"
+  },
+  {
+    "proxy": "https://122.54.119.79:8080",
+    "latency": 6272.64,
+    "type": "https"
+  },
+  {
+    "proxy": "https://186.155.230.114:999",
+    "latency": 6305.36,
+    "type": "https"
+  },
+  {
+    "proxy": "https://46.161.196.222:9812",
+    "latency": 2851.23,
+    "type": "https"
+  },
+  {
+    "proxy": "https://159.224.232.194:8888",
+    "latency": 745.2,
+    "type": "https"
+  },
+  {
+    "proxy": "https://157.10.97.75:3128",
+    "latency": 8603.85,
+    "type": "https"
+  },
+  {
+    "proxy": "https://145.220.178.1:4145",
+    "latency": 4632.33,
+    "type": "https"
+  },
+  {
+    "proxy": "https://177.229.197.234:999",
+    "latency": 12481.12,
+    "type": "https"
+  },
+  {
+    "proxy": "https://134.209.29.120:80",
+    "latency": 458.83,
+    "type": "https"
+  },
+  {
+    "proxy": "https://91.238.104.172:2024",
+    "latency": 613.9,
+    "type": "https"
+  },
+  {
+    "proxy": "https://59.153.16.92:20909",
+    "latency": 7006.91,
+    "type": "https"
+  },
+  {
+    "proxy": "https://45.173.6.230:999",
+    "latency": 3820.62,
+    "type": "https"
+  },
+  {
+    "proxy": "https://47.99.112.148:9080",
+    "latency": 2532.0,
+    "type": "https"
+  },
+  {
+    "proxy": "https://154.19.38.195:1111",
+    "latency": 5391.78,
+    "type": "https"
+  },
+  {
+    "proxy": "https://202.133.66.196:8181",
+    "latency": 13318.17,
+    "type": "https"
+  },
+  {
+    "proxy": "https://103.216.51.2:8080",
+    "latency": 1025.73,
+    "type": "https"
+  },
+  {
+    "proxy": "https://149.86.146.196:8080",
+    "latency": 1705.36,
+    "type": "https"
+  },
+  {
+    "proxy": "https://113.160.155.121:19132",
+    "latency": 2487.06,
+    "type": "https"
+  },
+  {
+    "proxy": "https://101.47.16.101:7890",
+    "latency": 2658.55,
+    "type": "https"
+  },
+  {
+    "proxy": "https://35.194.4.51:3128",
+    "latency": 22405.66,
+    "type": "https"
+  },
+  {
+    "proxy": "https://103.93.93.100:8081",
+    "latency": 4099.5,
+    "type": "https"
+  },
+  {
+    "proxy": "https://175.214.151.119:80",
+    "latency": 775.5,
+    "type": "https"
+  },
+  {
+    "proxy": "https://109.95.220.45:8080",
+    "latency": 495.04,
+    "type": "https"
+  },
+  {
+    "proxy": "https://8.213.195.191:9098",
+    "latency": 2536.89,
+    "type": "https"
+  },
+  {
+    "proxy": "https://79.8.191.250:3128",
+    "latency": 1883.22,
+    "type": "https"
+  },
+  {
+    "proxy": "https://200.48.35.124:999",
+    "latency": 3708.6,
+    "type": "https"
+  },
+  {
+    "proxy": "https://220.72.132.91:3128",
+    "latency": 6367.48,
+    "type": "https"
+  },
+  {
+    "proxy": "https://145.220.178.12:4145",
+    "latency": 500.72,
+    "type": "https"
+  },
+  {
+    "proxy": "https://47.76.144.139:8008",
+    "latency": 2425.15,
+    "type": "https"
+  },
+  {
+    "proxy": "https://103.118.47.243:8080",
+    "latency": 1142.07,
+    "type": "https"
+  },
+  {
+    "proxy": "https://103.172.254.145:84",
+    "latency": 11269.95,
+    "type": "https"
+  },
+  {
+    "proxy": "https://103.67.46.241:8080",
+    "latency": 6510.31,
+    "type": "https"
+  },
+  {
+    "proxy": "https://47.254.36.213:123",
+    "latency": 2149.09,
+    "type": "https"
+  },
+  {
+    "proxy": "https://8.211.49.86:7777",
+    "latency": 2195.56,
+    "type": "https"
+  },
+  {
+    "proxy": "https://59.153.16.214:20909",
+    "latency": 5035.99,
+    "type": "https"
+  },
+  {
+    "proxy": "https://39.102.208.236:80",
+    "latency": 2511.39,
+    "type": "https"
+  },
+  {
+    "proxy": "https://183.88.212.184:8080",
+    "latency": 6291.64,
+    "type": "https"
+  },
+  {
+    "proxy": "https://45.249.77.145:83",
+    "latency": 8705.72,
+    "type": "https"
+  },
+  {
+    "proxy": "https://138.68.60.8:80",
+    "latency": 2371.1,
+    "type": "https"
+  },
+  {
+    "proxy": "https://8.213.222.157:51",
+    "latency": 2504.45,
+    "type": "https"
+  },
+  {
+    "proxy": "https://47.238.128.246:8181",
+    "latency": 2414.83,
+    "type": "https"
+  },
+  {
+    "proxy": "https://185.26.180.180:80",
+    "latency": 188.37,
+    "type": "https"
+  },
+  {
+    "proxy": "https://8.211.195.139:1081",
+    "latency": 2160.78,
+    "type": "https"
+  },
+  {
+    "proxy": "https://139.162.16.201:80",
+    "latency": 990.72,
+    "type": "https"
+  },
+  {
+    "proxy": "https://200.59.186.179:999",
+    "latency": 5248.01,
+    "type": "https"
+  },
+  {
+    "proxy": "https://47.252.11.233:84",
+    "latency": 2007.91,
+    "type": "https"
+  },
+  {
+    "proxy": "https://47.108.159.113:18080",
+    "latency": 2536.03,
+    "type": "https"
+  },
+  {
+    "proxy": "https://145.220.178.6:9050",
+    "latency": 1550.63,
+    "type": "https"
+  },
+  {
+    "proxy": "https://175.139.233.78:80",
+    "latency": 9221.08,
+    "type": "https"
+  },
+  {
+    "proxy": "https://159.203.105.141:8080",
+    "latency": 75.47,
     "type": "https"
   },
   {
     "proxy": "https://97.78.58.180:8080",
-    "latency": 12549.38,
+    "latency": 7946.4,
     "type": "https"
   },
   {
-    "proxy": "https://176.88.191.254:8080",
-    "latency": 5834.39,
+    "proxy": "https://183.110.216.159:8091",
+    "latency": 3058.71,
     "type": "https"
   },
   {
-    "proxy": "https://38.123.220.111:999",
-    "latency": 2377.08,
+    "proxy": "https://181.209.71.222:8080",
+    "latency": 11769.9,
     "type": "https"
   },
   {
-    "proxy": "https://103.188.169.95:8080",
-    "latency": 12451.76,
+    "proxy": "https://165.101.231.104:8080",
+    "latency": 3586.49,
     "type": "https"
   },
   {
-    "proxy": "https://8.138.125.130:8081",
-    "latency": 2561.93,
+    "proxy": "https://8.213.195.191:3000",
+    "latency": 2506.43,
     "type": "https"
   },
   {
-    "proxy": "https://176.98.80.71:8080",
-    "latency": 533.22,
+    "proxy": "https://157.20.207.174:8080",
+    "latency": 14599.26,
     "type": "https"
   },
   {
-    "proxy": "https://41.220.16.211:80",
-    "latency": 991.99,
+    "proxy": "https://190.95.132.190:999",
+    "latency": 2687.07,
     "type": "https"
   },
   {
-    "proxy": "https://14.241.39.169:8080",
-    "latency": 10633.0,
+    "proxy": "https://49.48.93.141:8080",
+    "latency": 2581.72,
     "type": "https"
   },
   {
-    "proxy": "https://121.43.154.123:8443",
-    "latency": 2474.95,
+    "proxy": "https://197.221.249.199:80",
+    "latency": 2030.53,
     "type": "https"
   },
   {
-    "proxy": "https://39.102.208.189:57114",
-    "latency": 2515.26,
+    "proxy": "https://8.148.24.225:3128",
+    "latency": 2537.16,
     "type": "https"
   },
   {
-    "proxy": "https://47.252.18.37:13",
-    "latency": 2020.09,
+    "proxy": "https://103.63.190.72:8080",
+    "latency": 1004.98,
     "type": "https"
   },
   {
-    "proxy": "https://103.217.216.65:8181",
-    "latency": 5386.55,
+    "proxy": "https://147.45.179.180:1082",
+    "latency": 8298.05,
     "type": "https"
   },
   {
-    "proxy": "https://37.187.109.70:10111",
-    "latency": 3564.84,
+    "proxy": "https://152.230.215.123:80",
+    "latency": 6909.09,
     "type": "https"
   },
   {
-    "proxy": "https://201.186.41.170:999",
-    "latency": 9699.61,
+    "proxy": "https://50.203.147.159:80",
+    "latency": 67.55,
     "type": "https"
   },
   {
-    "proxy": "https://109.224.242.244:8080",
-    "latency": 14459.16,
+    "proxy": "https://222.213.85.99:9002",
+    "latency": 2874.08,
     "type": "https"
   },
   {
-    "proxy": "https://190.109.6.113:999",
-    "latency": 6125.67,
+    "proxy": "https://91.233.169.23:8081",
+    "latency": 8979.1,
     "type": "https"
   },
   {
-    "proxy": "https://103.153.39.35:8083",
-    "latency": 6343.25,
+    "proxy": "https://219.129.167.82:2222",
+    "latency": 3082.3,
+    "type": "https"
+  },
+  {
+    "proxy": "https://81.169.213.169:8888",
+    "latency": 782.82,
+    "type": "https"
+  },
+  {
+    "proxy": "https://196.251.222.86:8103",
+    "latency": 7462.02,
+    "type": "https"
+  },
+  {
+    "proxy": "https://52.229.30.3:80",
+    "latency": 268.3,
+    "type": "https"
+  },
+  {
+    "proxy": "https://45.239.175.60:8080",
+    "latency": 610.39,
+    "type": "https"
+  },
+  {
+    "proxy": "https://138.201.245.91:8080",
+    "latency": 190.88,
+    "type": "https"
+  },
+  {
+    "proxy": "https://185.195.26.44:8080",
+    "latency": 8628.24,
+    "type": "https"
+  },
+  {
+    "proxy": "https://103.231.45.182:8080",
+    "latency": 9309.11,
+    "type": "https"
+  },
+  {
+    "proxy": "https://163.172.53.142:80",
+    "latency": 3702.44,
+    "type": "https"
+  },
+  {
+    "proxy": "https://34.81.143.86:3128",
+    "latency": 552.27,
+    "type": "https"
+  },
+  {
+    "proxy": "https://103.214.109.70:80",
+    "latency": 6102.96,
+    "type": "https"
+  },
+  {
+    "proxy": "https://145.220.178.15:9050",
+    "latency": 820.3,
+    "type": "https"
+  },
+  {
+    "proxy": "https://8.211.195.173:5060",
+    "latency": 2173.19,
+    "type": "https"
+  },
+  {
+    "proxy": "https://190.2.209.59:999",
+    "latency": 9142.76,
+    "type": "https"
+  },
+  {
+    "proxy": "https://109.69.75.53:8080",
+    "latency": 15116.79,
+    "type": "https"
+  },
+  {
+    "proxy": "https://47.251.87.74:92",
+    "latency": 2141.76,
+    "type": "https"
+  },
+  {
+    "proxy": "https://23.88.88.102:443",
+    "latency": 437.42,
+    "type": "https"
+  },
+  {
+    "proxy": "https://102.0.21.156:8080",
+    "latency": 4365.73,
+    "type": "https"
+  },
+  {
+    "proxy": "https://219.93.101.60:80",
+    "latency": 999.61,
+    "type": "https"
+  },
+  {
+    "proxy": "https://158.222.90.12:4481",
+    "latency": 12194.52,
+    "type": "https"
+  },
+  {
+    "proxy": "https://160.187.204.14:8090",
+    "latency": 4167.27,
+    "type": "https"
+  },
+  {
+    "proxy": "https://65.108.203.35:18080",
+    "latency": 499.37,
+    "type": "https"
+  },
+  {
+    "proxy": "https://43.243.174.26:83",
+    "latency": 3383.09,
+    "type": "https"
+  },
+  {
+    "proxy": "https://193.68.115.14:8080",
+    "latency": 2554.07,
+    "type": "https"
+  },
+  {
+    "proxy": "https://45.167.126.42:999",
+    "latency": 3877.22,
+    "type": "https"
+  },
+  {
+    "proxy": "https://181.78.71.171:999",
+    "latency": 8118.92,
+    "type": "https"
+  },
+  {
+    "proxy": "https://103.101.193.38:1111",
+    "latency": 2783.54,
+    "type": "https"
+  },
+  {
+    "proxy": "https://47.254.36.213:3129",
+    "latency": 2141.63,
+    "type": "https"
+  },
+  {
+    "proxy": "https://45.230.169.5:999",
+    "latency": 8533.74,
+    "type": "https"
+  },
+  {
+    "proxy": "https://47.238.60.156:2526",
+    "latency": 2423.26,
+    "type": "https"
+  },
+  {
+    "proxy": "https://38.191.204.78:999",
+    "latency": 3772.49,
+    "type": "https"
+  },
+  {
+    "proxy": "https://103.10.62.238:8080",
+    "latency": 6768.06,
+    "type": "https"
+  },
+  {
+    "proxy": "https://103.39.51.156:8089",
+    "latency": 3365.73,
+    "type": "https"
+  },
+  {
+    "proxy": "https://185.225.204.5:3128",
+    "latency": 3200.21,
+    "type": "https"
+  },
+  {
+    "proxy": "https://120.79.21.48:808",
+    "latency": 4773.3,
+    "type": "https"
+  },
+  {
+    "proxy": "https://41.169.150.194:8080",
+    "latency": 6911.04,
+    "type": "https"
+  },
+  {
+    "proxy": "https://38.190.100.105:999",
+    "latency": 7515.73,
+    "type": "https"
+  },
+  {
+    "proxy": "https://181.204.39.202:26312",
+    "latency": 2093.52,
+    "type": "https"
+  },
+  {
+    "proxy": "https://8.211.195.173:10000",
+    "latency": 2159.85,
+    "type": "https"
+  },
+  {
+    "proxy": "https://77.242.177.57:3128",
+    "latency": 9123.64,
+    "type": "https"
+  },
+  {
+    "proxy": "https://8.221.139.222:8028",
+    "latency": 2327.11,
+    "type": "https"
+  },
+  {
+    "proxy": "https://103.18.77.24:1111",
+    "latency": 2549.33,
+    "type": "https"
+  },
+  {
+    "proxy": "https://8.211.194.85:80",
+    "latency": 2165.66,
+    "type": "https"
+  },
+  {
+    "proxy": "https://8.211.195.139:111",
+    "latency": 2168.44,
+    "type": "https"
+  },
+  {
+    "proxy": "https://38.211.24.70:8090",
+    "latency": 6884.23,
+    "type": "https"
+  },
+  {
+    "proxy": "https://195.175.29.38:9090",
+    "latency": 4481.59,
+    "type": "https"
+  },
+  {
+    "proxy": "https://46.10.209.230:8080",
+    "latency": 7465.72,
+    "type": "https"
+  },
+  {
+    "proxy": "https://165.227.118.27:80",
+    "latency": 10038.54,
+    "type": "https"
+  },
+  {
+    "proxy": "https://8.220.204.92:9080",
+    "latency": 2360.79,
+    "type": "https"
+  },
+  {
+    "proxy": "https://89.188.242.243:80",
+    "latency": 738.64,
+    "type": "https"
+  },
+  {
+    "proxy": "https://58.216.109.17:800",
+    "latency": 917.8,
+    "type": "https"
+  },
+  {
+    "proxy": "https://39.185.41.193:5911",
+    "latency": 1298.38,
+    "type": "https"
+  },
+  {
+    "proxy": "https://103.46.8.85:8080",
+    "latency": 5498.35,
+    "type": "https"
+  },
+  {
+    "proxy": "https://8.220.205.172:3749",
+    "latency": 2367.22,
+    "type": "https"
+  },
+  {
+    "proxy": "https://212.51.157.178:8080",
+    "latency": 2925.28,
+    "type": "https"
+  },
+  {
+    "proxy": "https://8.211.49.86:1088",
+    "latency": 2190.21,
+    "type": "https"
+  },
+  {
+    "proxy": "https://47.91.29.151:8081",
+    "latency": 2319.94,
+    "type": "https"
+  },
+  {
+    "proxy": "https://177.93.50.221:9992",
+    "latency": 3819.92,
+    "type": "https"
+  },
+  {
+    "proxy": "https://122.116.125.115:8888",
+    "latency": 874.12,
+    "type": "https"
+  },
+  {
+    "proxy": "https://137.184.96.68:80",
+    "latency": 1462.18,
+    "type": "https"
+  },
+  {
+    "proxy": "https://8.213.128.6:8090",
+    "latency": 2378.7,
+    "type": "https"
+  },
+  {
+    "proxy": "https://84.255.40.228:8998",
+    "latency": 11098.78,
+    "type": "https"
+  },
+  {
+    "proxy": "https://144.124.253.249:3128",
+    "latency": 6722.5,
+    "type": "https"
+  },
+  {
+    "proxy": "https://103.112.54.21:58080",
+    "latency": 14768.94,
+    "type": "https"
+  },
+  {
+    "proxy": "https://202.180.21.213:80",
+    "latency": 7685.95,
+    "type": "https"
+  },
+  {
+    "proxy": "https://182.253.109.46:8080",
+    "latency": 3660.5,
+    "type": "https"
+  },
+  {
+    "proxy": "https://8.221.141.88:80",
+    "latency": 2325.59,
+    "type": "https"
+  },
+  {
+    "proxy": "https://12.50.107.222:80",
+    "latency": 133.75,
+    "type": "https"
+  },
+  {
+    "proxy": "https://38.253.80.25:999",
+    "latency": 4526.71,
+    "type": "https"
+  },
+  {
+    "proxy": "https://50.210.166.34:80",
+    "latency": 8375.57,
+    "type": "https"
+  },
+  {
+    "proxy": "https://212.114.194.75:80",
+    "latency": 946.07,
+    "type": "https"
+  },
+  {
+    "proxy": "https://160.19.17.33:8181",
+    "latency": 3808.39,
+    "type": "https"
+  },
+  {
+    "proxy": "https://8.221.141.88:9507",
+    "latency": 2326.7,
+    "type": "https"
+  },
+  {
+    "proxy": "https://116.63.130.30:30001",
+    "latency": 4770.24,
+    "type": "https"
+  },
+  {
+    "proxy": "https://35.225.22.61:80",
+    "latency": 104.79,
+    "type": "https"
+  },
+  {
+    "proxy": "https://51.141.175.118:80",
+    "latency": 268.95,
+    "type": "https"
+  },
+  {
+    "proxy": "https://190.94.212.228:999",
+    "latency": 16647.07,
+    "type": "https"
+  },
+  {
+    "proxy": "https://154.65.39.7:80",
+    "latency": 3560.88,
+    "type": "https"
+  },
+  {
+    "proxy": "https://118.193.37.241:3129",
+    "latency": 11354.77,
+    "type": "https"
+  },
+  {
+    "proxy": "https://181.209.125.186:999",
+    "latency": 6806.24,
+    "type": "https"
+  },
+  {
+    "proxy": "https://47.238.60.156:88",
+    "latency": 2415.26,
+    "type": "https"
+  },
+  {
+    "proxy": "https://45.174.241.241:999",
+    "latency": 16122.37,
+    "type": "https"
+  },
+  {
+    "proxy": "https://219.65.73.81:80",
+    "latency": 952.94,
+    "type": "https"
+  },
+  {
+    "proxy": "https://116.171.106.15:3000",
+    "latency": 2357.51,
+    "type": "https"
+  },
+  {
+    "proxy": "https://119.192.157.20:80",
+    "latency": 1196.91,
+    "type": "https"
+  },
+  {
+    "proxy": "https://145.220.178.3:1081",
+    "latency": 1489.29,
+    "type": "https"
+  },
+  {
+    "proxy": "https://112.15.190.108:10086",
+    "latency": 422.59,
+    "type": "https"
+  },
+  {
+    "proxy": "https://103.156.248.53:8080",
+    "latency": 6543.49,
+    "type": "https"
+  },
+  {
+    "proxy": "https://103.161.64.44:80",
+    "latency": 8199.96,
+    "type": "https"
+  },
+  {
+    "proxy": "https://217.76.245.24:999",
+    "latency": 7784.85,
+    "type": "https"
+  },
+  {
+    "proxy": "https://47.91.29.151:8888",
+    "latency": 2316.18,
+    "type": "https"
+  },
+  {
+    "proxy": "https://141.0.8.240:80",
+    "latency": 972.94,
+    "type": "https"
+  },
+  {
+    "proxy": "https://45.174.243.20:999",
+    "latency": 7434.39,
+    "type": "https"
+  },
+  {
+    "proxy": "https://47.250.159.65:3128",
+    "latency": 2490.69,
+    "type": "https"
+  },
+  {
+    "proxy": "https://154.65.39.8:80",
+    "latency": 7663.17,
+    "type": "https"
+  },
+  {
+    "proxy": "https://15.204.151.141:3128",
+    "latency": 4154.6,
+    "type": "https"
+  },
+  {
+    "proxy": "https://89.19.209.217:31285",
+    "latency": 1596.47,
+    "type": "https"
+  },
+  {
+    "proxy": "https://47.90.149.238:5060",
+    "latency": 2008.54,
+    "type": "https"
+  },
+  {
+    "proxy": "https://8.209.96.245:31433",
+    "latency": 2201.63,
+    "type": "https"
+  },
+  {
+    "proxy": "https://62.133.62.12:1081",
+    "latency": 7741.2,
+    "type": "https"
+  },
+  {
+    "proxy": "https://201.76.9.115:8080",
+    "latency": 2862.32,
+    "type": "https"
+  },
+  {
+    "proxy": "https://45.166.93.113:999",
+    "latency": 6240.15,
+    "type": "https"
+  },
+  {
+    "proxy": "https://186.33.5.13:8080",
+    "latency": 15717.11,
+    "type": "https"
+  },
+  {
+    "proxy": "https://41.220.16.213:80",
+    "latency": 4087.9,
+    "type": "https"
+  },
+  {
+    "proxy": "https://197.155.230.206:8080",
+    "latency": 7129.72,
+    "type": "https"
+  },
+  {
+    "proxy": "https://94.177.58.26:7443",
+    "latency": 3446.07,
+    "type": "https"
+  },
+  {
+    "proxy": "https://8.211.51.115:3129",
+    "latency": 2192.49,
+    "type": "https"
+  },
+  {
+    "proxy": "https://47.251.73.54:90",
+    "latency": 2140.08,
+    "type": "https"
+  },
+  {
+    "proxy": "https://103.22.98.69:8080",
+    "latency": 4359.93,
+    "type": "https"
+  },
+  {
+    "proxy": "https://47.90.167.27:8000",
+    "latency": 2009.54,
+    "type": "https"
+  },
+  {
+    "proxy": "https://101.66.198.69:8085",
+    "latency": 1000.47,
+    "type": "https"
+  },
+  {
+    "proxy": "https://124.108.6.20:8085",
+    "latency": 1018.99,
+    "type": "https"
+  },
+  {
+    "proxy": "https://191.37.66.225:8080",
+    "latency": 12948.64,
+    "type": "https"
+  },
+  {
+    "proxy": "https://183.215.23.242:9091",
+    "latency": 1341.29,
+    "type": "https"
+  },
+  {
+    "proxy": "https://149.86.146.197:8080",
+    "latency": 13862.95,
+    "type": "https"
+  },
+  {
+    "proxy": "https://185.200.37.245:8080",
+    "latency": 2376.53,
+    "type": "https"
+  },
+  {
+    "proxy": "https://154.19.38.197:8080",
+    "latency": 7706.57,
+    "type": "https"
+  },
+  {
+    "proxy": "https://38.191.204.145:999",
+    "latency": 6966.38,
+    "type": "https"
+  },
+  {
+    "proxy": "https://41.220.16.214:80",
+    "latency": 1211.31,
+    "type": "https"
+  },
+  {
+    "proxy": "https://8.211.194.85:312",
+    "latency": 2789.52,
+    "type": "https"
+  },
+  {
+    "proxy": "https://38.191.200.250:999",
+    "latency": 4209.92,
+    "type": "https"
+  },
+  {
+    "proxy": "https://187.84.176.20:8080",
+    "latency": 7823.94,
+    "type": "https"
+  },
+  {
+    "proxy": "https://103.245.110.198:1452",
+    "latency": 10874.9,
+    "type": "https"
+  },
+  {
+    "proxy": "https://103.155.130.134:8082",
+    "latency": 7359.13,
+    "type": "https"
+  },
+  {
+    "proxy": "https://8.213.215.187:1081",
+    "latency": 2505.29,
+    "type": "https"
+  },
+  {
+    "proxy": "https://203.95.198.167:8080",
+    "latency": 1340.46,
+    "type": "https"
+  },
+  {
+    "proxy": "https://47.90.167.27:800",
+    "latency": 2992.78,
+    "type": "https"
+  },
+  {
+    "proxy": "https://8.213.156.191:12000",
+    "latency": 2386.13,
+    "type": "https"
+  },
+  {
+    "proxy": "https://47.251.87.74:8008",
+    "latency": 2141.63,
+    "type": "https"
+  },
+  {
+    "proxy": "https://47.96.42.36:80",
+    "latency": 966.55,
+    "type": "https"
+  },
+  {
+    "proxy": "https://101.255.53.105:8080",
+    "latency": 9213.64,
+    "type": "https"
+  },
+  {
+    "proxy": "https://8.221.139.222:443",
+    "latency": 2326.27,
+    "type": "https"
+  },
+  {
+    "proxy": "https://177.234.217.236:999",
+    "latency": 4550.78,
+    "type": "https"
+  },
+  {
+    "proxy": "https://95.216.150.135:80",
+    "latency": 14919.99,
+    "type": "https"
+  },
+  {
+    "proxy": "https://157.230.106.35:8080",
+    "latency": 10783.55,
+    "type": "https"
+  },
+  {
+    "proxy": "https://45.163.238.254:8080",
+    "latency": 6626.71,
+    "type": "https"
+  },
+  {
+    "proxy": "https://5.161.155.252:80",
+    "latency": 15.73,
+    "type": "https"
+  },
+  {
+    "proxy": "https://209.146.18.132:5050",
+    "latency": 1422.99,
+    "type": "https"
+  },
+  {
+    "proxy": "https://45.88.0.99:3128",
+    "latency": 1869.72,
+    "type": "https"
+  },
+  {
+    "proxy": "https://47.238.134.126:51",
+    "latency": 2412.4,
+    "type": "https"
+  },
+  {
+    "proxy": "https://115.78.135.4:3334",
+    "latency": 5786.35,
+    "type": "https"
+  },
+  {
+    "proxy": "https://47.237.2.245:8081",
+    "latency": 2457.28,
+    "type": "https"
+  },
+  {
+    "proxy": "https://139.159.99.242:8080",
+    "latency": 4703.59,
+    "type": "https"
+  },
+  {
+    "proxy": "https://47.251.87.74:1036",
+    "latency": 2145.27,
+    "type": "https"
+  },
+  {
+    "proxy": "https://46.55.143.145:8080",
+    "latency": 3743.03,
+    "type": "https"
+  },
+  {
+    "proxy": "https://14.241.133.207:8080",
+    "latency": 9201.26,
+    "type": "https"
+  },
+  {
+    "proxy": "https://8.210.17.35:4002",
+    "latency": 2422.47,
+    "type": "https"
+  },
+  {
+    "proxy": "https://8.243.197.202:999",
+    "latency": 8843.87,
+    "type": "https"
+  },
+  {
+    "proxy": "https://47.251.74.38:1000",
+    "latency": 2142.6,
+    "type": "https"
+  },
+  {
+    "proxy": "https://45.189.252.240:999",
+    "latency": 4831.43,
+    "type": "https"
+  },
+  {
+    "proxy": "https://8.211.200.183:3128",
+    "latency": 2159.71,
+    "type": "https"
+  },
+  {
+    "proxy": "https://8.211.194.78:8080",
+    "latency": 2158.09,
+    "type": "https"
+  },
+  {
+    "proxy": "https://8.213.222.157:8081",
+    "latency": 2536.49,
+    "type": "https"
+  },
+  {
+    "proxy": "https://212.114.194.74:80",
+    "latency": 875.39,
+    "type": "https"
+  },
+  {
+    "proxy": "https://8.213.197.208:8889",
+    "latency": 3802.44,
+    "type": "https"
+  },
+  {
+    "proxy": "https://12.50.107.217:80",
+    "latency": 123.44,
+    "type": "https"
+  },
+  {
+    "proxy": "https://158.178.214.173:3234",
+    "latency": 11518.85,
+    "type": "https"
+  },
+  {
+    "proxy": "https://124.122.134.152:8080",
+    "latency": 5178.92,
+    "type": "https"
+  },
+  {
+    "proxy": "https://200.85.232.91:3128",
+    "latency": 13867.19,
+    "type": "https"
+  },
+  {
+    "proxy": "https://185.235.16.12:80",
+    "latency": 566.39,
+    "type": "https"
+  },
+  {
+    "proxy": "https://217.217.254.94:8080",
+    "latency": 4112.07,
+    "type": "https"
+  },
+  {
+    "proxy": "https://62.113.119.14:8080",
+    "latency": 1321.74,
+    "type": "https"
+  },
+  {
+    "proxy": "https://106.1.94.48:8888",
+    "latency": 1812.83,
+    "type": "https"
+  },
+  {
+    "proxy": "https://102.68.128.218:8080",
+    "latency": 6048.52,
+    "type": "https"
+  },
+  {
+    "proxy": "https://47.76.144.139:8443",
+    "latency": 2412.84,
+    "type": "https"
+  },
+  {
+    "proxy": "https://8.220.204.92:8008",
+    "latency": 2374.42,
+    "type": "https"
+  },
+  {
+    "proxy": "https://141.0.11.241:80",
+    "latency": 440.34,
+    "type": "https"
+  },
+  {
+    "proxy": "https://188.130.160.209:80",
+    "latency": 6129.51,
+    "type": "https"
+  },
+  {
+    "proxy": "https://45.174.79.101:999",
+    "latency": 13612.1,
+    "type": "https"
+  },
+  {
+    "proxy": "https://8.209.96.245:45",
+    "latency": 2182.97,
+    "type": "https"
+  },
+  {
+    "proxy": "https://185.211.59.154:80",
+    "latency": 773.01,
+    "type": "https"
+  },
+  {
+    "proxy": "https://222.127.206.145:8085",
+    "latency": 8209.93,
+    "type": "https"
+  },
+  {
+    "proxy": "https://15.204.151.148:3128",
+    "latency": 4844.94,
+    "type": "https"
+  },
+  {
+    "proxy": "https://220.152.115.70:6000",
+    "latency": 6486.76,
     "type": "https"
   },
   {
     "proxy": "https://47.254.36.213:8001",
-    "latency": 2134.77,
+    "latency": 2151.09,
     "type": "https"
   },
   {
-    "proxy": "https://45.88.0.111:3128",
-    "latency": 266.01,
+    "proxy": "https://8.213.128.6:1100",
+    "latency": 2382.41,
+    "type": "https"
+  },
+  {
+    "proxy": "https://110.74.215.171:8080",
+    "latency": 2529.81,
+    "type": "https"
+  },
+  {
+    "proxy": "https://122.3.126.95:8081",
+    "latency": 12230.63,
+    "type": "https"
+  },
+  {
+    "proxy": "https://8.213.128.6:50",
+    "latency": 2376.16,
+    "type": "https"
+  },
+  {
+    "proxy": "https://148.113.172.51:8080",
+    "latency": 74.21,
+    "type": "https"
+  },
+  {
+    "proxy": "https://103.125.39.93:8080",
+    "latency": 9059.64,
+    "type": "https"
+  },
+  {
+    "proxy": "https://201.150.116.3:999",
+    "latency": 5885.02,
+    "type": "https"
+  },
+  {
+    "proxy": "https://47.250.11.111:9098",
+    "latency": 2483.24,
+    "type": "https"
+  },
+  {
+    "proxy": "https://38.172.160.160:999",
+    "latency": 7853.64,
+    "type": "https"
+  },
+  {
+    "proxy": "https://103.156.74.186:8080",
+    "latency": 11541.09,
+    "type": "https"
+  },
+  {
+    "proxy": "https://39.102.213.213:10000",
+    "latency": 2522.97,
+    "type": "https"
+  },
+  {
+    "proxy": "https://8.211.42.167:8080",
+    "latency": 2188.07,
+    "type": "https"
+  },
+  {
+    "proxy": "https://8.211.49.86:9080",
+    "latency": 2190.11,
+    "type": "https"
+  },
+  {
+    "proxy": "https://47.91.29.151:8443",
+    "latency": 2326.93,
+    "type": "https"
+  },
+  {
+    "proxy": "https://45.90.216.103:8080",
+    "latency": 7881.03,
+    "type": "https"
+  },
+  {
+    "proxy": "https://195.158.8.123:3128",
+    "latency": 1239.44,
+    "type": "https"
+  },
+  {
+    "proxy": "https://93.171.156.233:8080",
+    "latency": 654.26,
+    "type": "https"
+  },
+  {
+    "proxy": "https://47.238.128.246:202",
+    "latency": 2413.03,
+    "type": "https"
+  },
+  {
+    "proxy": "https://45.225.249.253:8080",
+    "latency": 1444.0,
+    "type": "https"
+  },
+  {
+    "proxy": "https://103.175.237.232:8080",
+    "latency": 8506.14,
+    "type": "https"
+  },
+  {
+    "proxy": "https://132.255.21.123:999",
+    "latency": 3971.63,
+    "type": "https"
+  },
+  {
+    "proxy": "https://95.163.153.116:20184",
+    "latency": 6764.93,
+    "type": "https"
+  },
+  {
+    "proxy": "https://190.195.225.34:80",
+    "latency": 1628.39,
+    "type": "https"
+  },
+  {
+    "proxy": "https://8.220.205.172:80",
+    "latency": 2364.4,
+    "type": "https"
+  },
+  {
+    "proxy": "https://163.223.96.122:8080",
+    "latency": 5354.54,
+    "type": "https"
+  },
+  {
+    "proxy": "https://183.98.143.134:8631",
+    "latency": 5997.49,
+    "type": "https"
+  },
+  {
+    "proxy": "https://190.52.110.31:999",
+    "latency": 7097.4,
+    "type": "https"
+  },
+  {
+    "proxy": "https://45.177.178.242:999",
+    "latency": 11353.59,
+    "type": "https"
+  },
+  {
+    "proxy": "https://23.88.88.102:80",
+    "latency": 686.35,
+    "type": "https"
+  },
+  {
+    "proxy": "https://103.170.196.74:8080",
+    "latency": 6478.64,
+    "type": "https"
+  },
+  {
+    "proxy": "https://118.179.151.57:5020",
+    "latency": 8088.91,
+    "type": "https"
+  },
+  {
+    "proxy": "https://145.220.178.3:4145",
+    "latency": 1058.11,
+    "type": "https"
+  },
+  {
+    "proxy": "https://67.206.213.202:3120",
+    "latency": 4696.95,
+    "type": "https"
+  },
+  {
+    "proxy": "https://4.213.167.178:80",
+    "latency": 1037.05,
+    "type": "https"
+  },
+  {
+    "proxy": "https://181.78.44.63:999",
+    "latency": 8506.84,
+    "type": "https"
+  },
+  {
+    "proxy": "https://131.196.245.120:999",
+    "latency": 11629.86,
+    "type": "https"
+  },
+  {
+    "proxy": "https://59.153.17.46:20909",
+    "latency": 8790.9,
+    "type": "https"
+  },
+  {
+    "proxy": "https://47.91.109.17:80",
+    "latency": 2353.87,
+    "type": "https"
+  },
+  {
+    "proxy": "https://203.190.117.83:8123",
+    "latency": 3345.5,
+    "type": "https"
+  },
+  {
+    "proxy": "https://103.72.89.124:8097",
+    "latency": 3395.86,
+    "type": "https"
+  },
+  {
+    "proxy": "https://183.110.216.128:8090",
+    "latency": 2856.84,
+    "type": "https"
+  },
+  {
+    "proxy": "https://117.54.114.96:80",
+    "latency": 997.48,
+    "type": "https"
+  },
+  {
+    "proxy": "https://157.15.82.118:8080",
+    "latency": 8869.77,
+    "type": "https"
+  },
+  {
+    "proxy": "https://149.86.144.211:8080",
+    "latency": 3242.52,
+    "type": "https"
+  },
+  {
+    "proxy": "https://38.45.246.210:999",
+    "latency": 6960.43,
+    "type": "https"
+  },
+  {
+    "proxy": "https://80.78.128.94:8080",
+    "latency": 8179.88,
+    "type": "https"
+  },
+  {
+    "proxy": "https://47.94.108.52:8081",
+    "latency": 513.79,
+    "type": "https"
+  },
+  {
+    "proxy": "https://50.114.33.180:8080",
+    "latency": 1098.39,
+    "type": "https"
+  },
+  {
+    "proxy": "https://211.38.188.120:9080",
+    "latency": 3626.37,
+    "type": "https"
+  },
+  {
+    "proxy": "https://130.193.59.228:3128",
+    "latency": 788.22,
+    "type": "https"
+  },
+  {
+    "proxy": "https://175.196.233.22:9090",
+    "latency": 1393.11,
+    "type": "https"
+  },
+  {
+    "proxy": "https://103.165.253.125:8080",
+    "latency": 5547.32,
+    "type": "https"
+  },
+  {
+    "proxy": "https://177.234.217.82:999",
+    "latency": 4827.95,
+    "type": "https"
+  },
+  {
+    "proxy": "https://103.191.155.26:3125",
+    "latency": 2799.34,
+    "type": "https"
+  },
+  {
+    "proxy": "https://103.154.230.80:8090",
+    "latency": 3861.12,
+    "type": "https"
+  },
+  {
+    "proxy": "https://16.163.88.228:80",
+    "latency": 448.79,
+    "type": "https"
+  },
+  {
+    "proxy": "https://116.132.0.134:8060",
+    "latency": 2154.09,
+    "type": "https"
+  },
+  {
+    "proxy": "https://145.220.178.0:9050",
+    "latency": 2527.14,
+    "type": "https"
+  },
+  {
+    "proxy": "https://103.144.102.245:8080",
+    "latency": 8321.86,
+    "type": "https"
+  },
+  {
+    "proxy": "https://103.166.124.227:8080",
+    "latency": 13541.03,
+    "type": "https"
+  },
+  {
+    "proxy": "https://103.161.69.252:2698",
+    "latency": 13003.37,
+    "type": "https"
+  },
+  {
+    "proxy": "https://161.35.70.249:3128",
+    "latency": 527.43,
+    "type": "https"
+  },
+  {
+    "proxy": "https://181.37.240.89:999",
+    "latency": 3764.98,
+    "type": "https"
+  },
+  {
+    "proxy": "https://103.242.105.111:8080",
+    "latency": 10790.68,
+    "type": "https"
+  },
+  {
+    "proxy": "https://72.10.160.90:32699",
+    "latency": 7970.16,
+    "type": "https"
+  },
+  {
+    "proxy": "https://177.10.44.190:8080",
+    "latency": 6987.93,
+    "type": "https"
+  },
+  {
+    "proxy": "https://122.3.87.41:8080",
+    "latency": 2353.68,
+    "type": "https"
+  },
+  {
+    "proxy": "https://47.91.109.17:3128",
+    "latency": 2355.21,
+    "type": "https"
+  },
+  {
+    "proxy": "https://157.180.118.86:80",
+    "latency": 595.97,
+    "type": "https"
+  },
+  {
+    "proxy": "https://51.159.66.158:3128",
+    "latency": 15233.91,
+    "type": "https"
+  },
+  {
+    "proxy": "https://8.211.200.183:8081",
+    "latency": 2159.29,
+    "type": "https"
+  },
+  {
+    "proxy": "https://36.138.53.26:10019",
+    "latency": 2391.53,
+    "type": "https"
+  },
+  {
+    "proxy": "https://34.81.160.132:80",
+    "latency": 943.22,
+    "type": "https"
+  },
+  {
+    "proxy": "https://103.227.186.209:6080",
+    "latency": 4148.7,
+    "type": "https"
+  },
+  {
+    "proxy": "https://201.140.185.41:8081",
+    "latency": 584.18,
+    "type": "https"
+  },
+  {
+    "proxy": "https://45.70.236.121:8080",
+    "latency": 5486.91,
+    "type": "https"
+  },
+  {
+    "proxy": "https://203.207.56.175:1452",
+    "latency": 3048.96,
+    "type": "https"
+  },
+  {
+    "proxy": "https://112.209.38.19:8082",
+    "latency": 9473.48,
+    "type": "https"
+  },
+  {
+    "proxy": "https://115.75.184.174:8080",
+    "latency": 7961.69,
     "type": "https"
   },
   {
     "proxy": "https://200.59.191.233:999",
-    "latency": 6676.68,
+    "latency": 4198.83,
     "type": "https"
   },
   {
-    "proxy": "https://31.148.207.153:80",
-    "latency": 502.29,
+    "proxy": "https://8.211.42.167:8081",
+    "latency": 2199.85,
     "type": "https"
   },
   {
-    "proxy": "https://181.13.20.102:999",
-    "latency": 5744.08,
+    "proxy": "https://39.104.59.56:8080",
+    "latency": 2566.3,
     "type": "https"
   },
   {
-    "proxy": "https://103.76.91.63:8097",
-    "latency": 5494.83,
+    "proxy": "https://212.47.232.28:80",
+    "latency": 355.31,
     "type": "https"
   },
   {
-    "proxy": "https://135.125.97.184:40551",
-    "latency": 2563.44,
+    "proxy": "https://103.53.77.179:8050",
+    "latency": 4976.84,
     "type": "https"
   },
   {
-    "proxy": "https://190.237.238.53:999",
-    "latency": 5000.58,
+    "proxy": "https://91.241.217.58:9090",
+    "latency": 672.54,
     "type": "https"
   },
   {
-    "proxy": "https://103.118.44.185:8080",
-    "latency": 1045.84,
+    "proxy": "https://82.145.209.253:80",
+    "latency": 165.66,
     "type": "https"
   },
   {
-    "proxy": "https://74.176.195.135:80",
-    "latency": 629.34,
+    "proxy": "https://93.42.151.100:8080",
+    "latency": 4066.57,
     "type": "https"
   },
   {
-    "proxy": "https://212.114.194.73:80",
-    "latency": 847.63,
+    "proxy": "https://170.80.50.40:8080",
+    "latency": 3966.65,
     "type": "https"
   },
   {
-    "proxy": "https://58.69.209.71:8082",
-    "latency": 2336.26,
+    "proxy": "https://182.253.38.179:3128",
+    "latency": 8311.68,
     "type": "https"
   },
   {
-    "proxy": "https://47.76.144.139:4145",
-    "latency": 2408.85,
+    "proxy": "https://47.251.87.199:1036",
+    "latency": 2139.56,
     "type": "https"
   },
   {
-    "proxy": "https://95.163.153.116:26305",
-    "latency": 9996.57,
+    "proxy": "https://186.96.67.40:999",
+    "latency": 12861.81,
     "type": "https"
   },
   {
-    "proxy": "https://103.153.62.246:8181",
-    "latency": 6423.05,
+    "proxy": "https://103.189.249.140:1111",
+    "latency": 5670.3,
     "type": "https"
   },
   {
-    "proxy": "https://218.77.183.214:5224",
-    "latency": 1001.24,
+    "proxy": "https://103.152.238.93:1080",
+    "latency": 4475.48,
     "type": "https"
   },
   {
-    "proxy": "https://8.213.195.191:18080",
-    "latency": 2517.39,
+    "proxy": "https://47.90.167.27:443",
+    "latency": 2007.55,
     "type": "https"
   },
   {
-    "proxy": "https://186.3.76.228:999",
-    "latency": 12691.27,
+    "proxy": "https://202.47.162.58:8181",
+    "latency": 13956.16,
     "type": "https"
   },
   {
-    "proxy": "https://119.93.83.106:8082",
-    "latency": 2906.75,
+    "proxy": "https://212.252.71.9:8080",
+    "latency": 5135.64,
     "type": "https"
   },
   {
-    "proxy": "https://5.187.9.10:8080",
-    "latency": 7176.88,
+    "proxy": "https://145.220.178.15:1081",
+    "latency": 2418.09,
+    "type": "https"
+  },
+  {
+    "proxy": "https://181.78.74.163:999",
+    "latency": 8008.72,
+    "type": "https"
+  },
+  {
+    "proxy": "https://176.88.191.254:8080",
+    "latency": 4132.94,
+    "type": "https"
+  },
+  {
+    "proxy": "https://193.24.120.242:1401",
+    "latency": 10837.0,
+    "type": "https"
+  },
+  {
+    "proxy": "https://27.147.137.234:9108",
+    "latency": 1370.01,
+    "type": "https"
+  },
+  {
+    "proxy": "https://144.125.164.222:8081",
+    "latency": 1082.03,
+    "type": "https"
+  },
+  {
+    "proxy": "https://145.220.178.8:8080",
+    "latency": 3342.19,
+    "type": "https"
+  },
+  {
+    "proxy": "https://65.108.209.73:80",
+    "latency": 943.4,
+    "type": "https"
+  },
+  {
+    "proxy": "https://41.220.16.209:80",
+    "latency": 1119.03,
+    "type": "https"
+  },
+  {
+    "proxy": "https://176.114.249.239:80",
+    "latency": 502.03,
+    "type": "https"
+  },
+  {
+    "proxy": "https://103.91.86.85:8080",
+    "latency": 1079.4,
+    "type": "https"
+  },
+  {
+    "proxy": "https://164.138.205.70:8080",
+    "latency": 7874.17,
+    "type": "https"
+  },
+  {
+    "proxy": "https://38.194.224.26:999",
+    "latency": 6274.49,
+    "type": "https"
+  },
+  {
+    "proxy": "https://83.219.145.108:3128",
+    "latency": 1802.29,
+    "type": "https"
+  },
+  {
+    "proxy": "https://172.200.72.48:80",
+    "latency": 190.13,
+    "type": "https"
+  },
+  {
+    "proxy": "https://47.91.89.3:1081",
+    "latency": 2185.03,
+    "type": "https"
+  },
+  {
+    "proxy": "https://82.165.20.115:80",
+    "latency": 3463.58,
+    "type": "https"
+  },
+  {
+    "proxy": "https://103.141.247.6:8080",
+    "latency": 16936.41,
+    "type": "https"
+  },
+  {
+    "proxy": "https://190.242.157.215:8080",
+    "latency": 520.4,
+    "type": "https"
+  },
+  {
+    "proxy": "https://161.35.70.249:80",
+    "latency": 405.47,
+    "type": "https"
+  },
+  {
+    "proxy": "https://141.0.12.41:80",
+    "latency": 179.01,
+    "type": "https"
+  },
+  {
+    "proxy": "https://91.211.212.6:32650",
+    "latency": 8408.24,
+    "type": "https"
+  },
+  {
+    "proxy": "https://62.149.165.171:80",
+    "latency": 378.94,
+    "type": "https"
+  },
+  {
+    "proxy": "https://46.62.204.83:80",
+    "latency": 936.72,
+    "type": "https"
+  },
+  {
+    "proxy": "https://95.84.164.140:443",
+    "latency": 2491.16,
+    "type": "https"
+  },
+  {
+    "proxy": "https://92.118.115.36:80",
+    "latency": 753.2,
+    "type": "https"
+  },
+  {
+    "proxy": "https://119.93.14.61:8082",
+    "latency": 9983.25,
+    "type": "https"
+  },
+  {
+    "proxy": "https://49.200.111.178:3128",
+    "latency": 970.92,
+    "type": "https"
+  },
+  {
+    "proxy": "https://58.137.174.101:8080",
+    "latency": 4225.87,
+    "type": "https"
+  },
+  {
+    "proxy": "https://8.219.229.53:3128",
+    "latency": 2449.99,
+    "type": "https"
+  },
+  {
+    "proxy": "https://195.35.2.231:80",
+    "latency": 10889.68,
+    "type": "https"
+  },
+  {
+    "proxy": "https://8.213.195.191:30000",
+    "latency": 2491.03,
+    "type": "https"
+  },
+  {
+    "proxy": "https://45.228.233.78:999",
+    "latency": 8192.0,
+    "type": "https"
+  },
+  {
+    "proxy": "https://221.231.13.198:1080",
+    "latency": 1036.04,
+    "type": "https"
+  },
+  {
+    "proxy": "https://8.213.134.213:50",
+    "latency": 2373.95,
+    "type": "https"
+  },
+  {
+    "proxy": "https://104.155.15.30:80",
+    "latency": 171.76,
+    "type": "https"
+  },
+  {
+    "proxy": "https://157.100.69.133:999",
+    "latency": 4071.67,
+    "type": "https"
+  },
+  {
+    "proxy": "https://38.156.73.154:8080",
+    "latency": 731.03,
+    "type": "https"
+  },
+  {
+    "proxy": "https://145.220.178.7:1081",
+    "latency": 3715.85,
+    "type": "https"
+  },
+  {
+    "proxy": "https://8.221.138.111:8443",
+    "latency": 2327.57,
+    "type": "https"
+  },
+  {
+    "proxy": "https://103.122.64.139:8085",
+    "latency": 5605.69,
+    "type": "https"
+  },
+  {
+    "proxy": "https://113.212.111.4:80",
+    "latency": 504.57,
+    "type": "https"
+  },
+  {
+    "proxy": "https://158.160.215.167:8123",
+    "latency": 3531.95,
+    "type": "https"
+  },
+  {
+    "proxy": "https://145.220.178.5:8080",
+    "latency": 696.59,
+    "type": "https"
+  },
+  {
+    "proxy": "https://72.10.164.178:10887",
+    "latency": 1848.82,
+    "type": "https"
+  },
+  {
+    "proxy": "https://50.203.147.158:80",
+    "latency": 4729.02,
+    "type": "https"
+  },
+  {
+    "proxy": "https://175.101.240.38:80",
+    "latency": 3074.28,
+    "type": "https"
+  },
+  {
+    "proxy": "https://195.123.209.48:3128",
+    "latency": 327.3,
+    "type": "https"
+  },
+  {
+    "proxy": "https://172.237.73.24:80",
+    "latency": 8654.73,
+    "type": "https"
+  },
+  {
+    "proxy": "https://197.221.237.248:80",
+    "latency": 2024.82,
+    "type": "https"
+  },
+  {
+    "proxy": "https://103.86.117.27:8090",
+    "latency": 6168.17,
+    "type": "https"
+  },
+  {
+    "proxy": "https://59.153.18.93:20909",
+    "latency": 5775.49,
+    "type": "https"
+  },
+  {
+    "proxy": "https://8.213.222.157:100",
+    "latency": 2490.94,
+    "type": "https"
+  },
+  {
+    "proxy": "https://103.242.105.115:8080",
+    "latency": 4183.35,
+    "type": "https"
+  },
+  {
+    "proxy": "https://221.202.27.194:10809",
+    "latency": 2839.21,
+    "type": "https"
+  },
+  {
+    "proxy": "https://101.255.122.170:8080",
+    "latency": 1339.9,
+    "type": "https"
+  },
+  {
+    "proxy": "https://103.193.145.155:8080",
+    "latency": 9395.36,
+    "type": "https"
+  },
+  {
+    "proxy": "https://186.250.53.192:8080",
+    "latency": 5963.02,
+    "type": "https"
+  },
+  {
+    "proxy": "https://14.241.39.169:8080",
+    "latency": 17232.54,
+    "type": "https"
+  },
+  {
+    "proxy": "https://103.242.104.160:3128",
+    "latency": 8143.71,
+    "type": "https"
+  },
+  {
+    "proxy": "https://8.212.177.126:8080",
+    "latency": 716.5,
+    "type": "https"
+  },
+  {
+    "proxy": "https://47.238.130.212:5060",
+    "latency": 2412.42,
+    "type": "https"
+  },
+  {
+    "proxy": "https://103.134.27.129:8080",
+    "latency": 11711.26,
+    "type": "https"
+  },
+  {
+    "proxy": "https://145.220.178.5:1081",
+    "latency": 1507.59,
+    "type": "https"
+  },
+  {
+    "proxy": "https://103.156.17.132:8070",
+    "latency": 8703.68,
+    "type": "https"
+  },
+  {
+    "proxy": "https://209.38.222.145:8080",
+    "latency": 13197.62,
+    "type": "https"
+  },
+  {
+    "proxy": "https://36.37.155.160:8080",
+    "latency": 8687.02,
+    "type": "https"
+  },
+  {
+    "proxy": "https://103.191.58.110:8080",
+    "latency": 8039.73,
+    "type": "https"
+  },
+  {
+    "proxy": "https://209.13.186.20:80",
+    "latency": 770.57,
+    "type": "https"
+  },
+  {
+    "proxy": "https://154.16.146.48:80",
+    "latency": 1480.62,
+    "type": "https"
+  },
+  {
+    "proxy": "https://220.88.163.174:10080",
+    "latency": 1843.47,
+    "type": "https"
+  },
+  {
+    "proxy": "https://187.190.127.212:8081",
+    "latency": 7859.01,
+    "type": "https"
+  },
+  {
+    "proxy": "https://128.199.202.122:8080",
+    "latency": 1984.63,
+    "type": "https"
+  },
+  {
+    "proxy": "https://181.118.143.1:999",
+    "latency": 7071.93,
+    "type": "https"
+  },
+  {
+    "proxy": "https://144.48.163.110:8080",
+    "latency": 4239.69,
     "type": "https"
   }
 ]
